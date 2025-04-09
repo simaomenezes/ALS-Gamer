@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ALS_Shooter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Dev-Game-UE\ALS-Gamer\ALS_Shooter\Intermediate\Build\Win64\x64\ALS_ShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Dev-Game-UE\ALS-Gamer\ALS_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALS_Shooter\ALS_Shooter.cpp.obj"
+"C:\Dev-Game-UE\ALS-Gamer\ALS_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALS_Shooter\PerModuleInline.gen.cpp.obj"
+"C:\Dev-Game-UE\ALS-Gamer\ALS_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALS_Shooter\Default.rc2.res"
+/OUT:"C:\Dev-Game-UE\ALS-Gamer\ALS_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALS_Shooter\UnrealEditor-ALS_Shooter.lib"

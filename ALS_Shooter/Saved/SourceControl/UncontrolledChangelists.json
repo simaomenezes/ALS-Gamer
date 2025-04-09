@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Yellow.uasset",
+				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Yellow.uasset",
+				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/Characters/Heroes/Mannequin/Meshes/SKM_Manny.uasset"
+			]
+		}
+	]
+}

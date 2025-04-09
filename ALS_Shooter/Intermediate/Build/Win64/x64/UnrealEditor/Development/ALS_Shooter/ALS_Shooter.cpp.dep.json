@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\dev-game-ue\\als-gamer\\als_shooter\\source\\als_shooter\\als_shooter.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\dev-game-ue\\als-gamer\\als_shooter\\intermediate\\build\\win64\\x64\\als_shootereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\dev-game-ue\\als-gamer\\als_shooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\als_shooter\\definitions.als_shooter.h",
+            "c:\\dev-game-ue\\als-gamer\\als_shooter\\source\\als_shooter\\als_shooter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

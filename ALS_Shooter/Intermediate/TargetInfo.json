@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ALS_Shooter",
+			"Path": "..\\Source\\ALS_Shooter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ALS_ShooterEditor",
+			"Path": "..\\Source\\ALS_ShooterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

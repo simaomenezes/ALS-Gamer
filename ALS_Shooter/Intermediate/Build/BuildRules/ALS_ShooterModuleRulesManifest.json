@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Dev-Game-UE\\ALS-Gamer\\ALS_Shooter\\Source\\ALS_Shooter\\ALS_Shooter.Build.cs",
+		"C:\\Dev-Game-UE\\ALS-Gamer\\ALS_Shooter\\Source\\ALS_Shooter.Target.cs",
+		"C:\\Dev-Game-UE\\ALS-Gamer\\ALS_Shooter\\Source\\ALS_ShooterEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

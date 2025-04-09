@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ALS_Shooter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ALS_Shooter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ALS_ShooterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ALS_Shooter">
+      <UniqueIdentifier>{3AE59725-6F4F-31D2-9543-D788FB4C01F7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ALS_Shooter\ALS_Shooter.Build.cs">
+      <Filter>Source\ALS_Shooter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ALS_Shooter\ALS_Shooter.cpp">
+      <Filter>Source\ALS_Shooter</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ALS_Shooter\ALS_Shooter.h">
+      <Filter>Source\ALS_Shooter</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
