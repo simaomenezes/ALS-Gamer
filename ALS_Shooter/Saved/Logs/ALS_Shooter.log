@@ -1967,3 +1967,1275 @@ FPackageName: Skipped package /Game/Characters/Heroes/PhysMat_Player_WeakSpot ha
 [2025.04.09-17.09.41:789][927]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.09-17.09.41:789][927]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.09-17.09.41:789][927]AssetCheck: /Game/Characters/Heroes/Mannequin/Meshes/SKM_Manny Validating asset
+[2025.04.09-17.13.14:872][739]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12237.825195
+[2025.04.09-17.13.15:873][741]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-17.13.15:873][741]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12238.491211, Update Interval: 330.444031
+[2025.04.09-17.15.31:666][912]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.09-17.15.31:676][912]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.09-17.15.31:688][913]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.09-17.15.35:257][118]LogContentBrowser: Attempting asset rename: NewFolder -> ALS
+[2025.04.09-17.15.35:260][118]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.09-17.15.41:043][455]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.09-17.15.41:053][455]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.09-17.15.41:064][456]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.09-17.15.45:063][696]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2025.04.09-17.15.45:063][696]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.09-17.15.56:977][381]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.09-17.16.13:777][ 90]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.09-17.16.28:174][891]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.09-17.16.28:186][891]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.09-17.16.28:221][893]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.09-17.16.35:041][303]LogContentBrowser: Attempting asset rename: NewFolder -> Character
+[2025.04.09-17.16.35:041][303]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.09-17.17.10:702][486]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.04.09-17.17.33:111][738]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.04.09-17.17.33:123][738]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.04.09-17.17.33:134][738]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.04.09-17.17.33:172][740]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.04.09-17.17.36:067][904]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.04.09-17.17.36:140][904]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.04.09-17.18.07:349][282]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_LyraGameMode
+[2025.04.09-17.18.07:566][282]LogMetaData: Removing '/Game/ALS/Character/BP_LyraGameMode.BP_LyraGameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ALS/Character/NewBlueprint.PackageMetaData'
+[2025.04.09-17.18.07:566][282]LogMetaData: Removing '/Game/ALS/Character/BP_LyraGameMode.SKEL_BP_LyraGameMode_C:UserConstructionScript' ref from Metadata '/Game/ALS/Character/NewBlueprint.PackageMetaData'
+[2025.04.09-17.18.07:566][282]LogMetaData: Removing '/Game/ALS/Character/BP_LyraGameMode.SKEL_BP_LyraGameMode_C' ref from Metadata '/Game/ALS/Character/NewBlueprint.PackageMetaData'
+[2025.04.09-17.18.07:566][282]LogMetaData: Removing '/Game/ALS/Character/BP_LyraGameMode.BP_LyraGameMode_C' ref from Metadata '/Game/ALS/Character/NewBlueprint.PackageMetaData'
+[2025.04.09-17.18.07:566][282]LogMetaData: Removing '/Game/ALS/Character/BP_LyraGameMode.BP_LyraGameMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ALS/Character/NewBlueprint.PackageMetaData'
+[2025.04.09-17.18.07:566][282]LogMetaData: Removing '/Game/ALS/Character/BP_LyraGameMode.BP_LyraGameMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ALS/Character/NewBlueprint.PackageMetaData'
+[2025.04.09-17.18.07:573][282]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-17.18.07:574][282]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ALS/Character/BP_LyraGameMode] ([2] browsable assets)...
+[2025.04.09-17.18.07:574][282]OBJ SavePackage: Finished generating thumbnails for package [/Game/ALS/Character/BP_LyraGameMode]
+[2025.04.09-17.18.07:574][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ALS/Character/BP_LyraGameMode" FILE="../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Character/BP_LyraGameMode.uasset" SILENT=true
+[2025.04.09-17.18.07:592][282]LogSavePackage: Moving output files for package: /Game/ALS/Character/BP_LyraGameMode
+[2025.04.09-17.18.07:592][282]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/BP_LyraGameModeEEDDB6E4474D9C30EB44149EB3443E34.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Character/BP_LyraGameMode.uasset'
+[2025.04.09-17.18.07:610][282]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.636 ms (total: 16.9 sec)
+[2025.04.09-17.18.07:767][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.04.09-17.18.07:788][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.04.09-17.18.07:800][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.04.09-17.18.07:854][282]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-17.18.07:854][282]LogContentValidation: Enabled validators:
+[2025.04.09-17.18.07:854][282]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-17.18.07:854][282]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-17.18.07:854][282]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-17.18.07:854][282]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-17.18.07:854][282]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-17.18.07:854][282]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-17.18.07:855][282]AssetCheck: /Game/ALS/Character/BP_LyraGameMode Validating asset
+[2025.04.09-17.18.09:170][359]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ALS/Character/BP_LyraGameMode.BP_LyraGameMode
+[2025.04.09-17.18.09:181][359]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.04.09-17.18.09:313][359]LogStreaming: Display: FlushAsyncLoading(495): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-17.18.11:677][359]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2025.04.09-17.18.11:689][359]LogStaticMesh: Built static mesh [0.02s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2025.04.09-17.19.05:400][545]LogSlate: Window 'Save Level As' being destroyed
+[2025.04.09-17.19.05:645][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.09-17.19.05:732][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.04.09-17.19.05:745][545]LogSavePackage: Moving output files for package: /Game/Levels/TestMap
+[2025.04.09-17.19.05:746][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/TestMapE87843E24A50C0B3B9C709923F1E5A74.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/Levels/TestMap.umap'
+[2025.04.09-17.19.05:814][545]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Levels/TestMap_HLOD0_Instancing
+/Game/__ExternalActors__/Levels/TestMap/0/6L/C6P3NNQ08SPJ2YF5CVFTNE
+/Game/__ExternalObjects__/Levels/TestMap/C/A4/SCT4I78LDNLJQFQS21VWJ7
+/Game/__ExternalObjects__/Levels/TestMap/E/18/PQ1UIUJHVM19NQMDOIPUXP
+/Game/__ExternalObjects__/Levels/TestMap/2/UH/KKYZSX9LQS8E55I09NTEMO
+/Game/__ExternalObjects__/Levels/TestMap/9/ZD/CLBRP61QX4DJ4JAA8GP6CR
+/Game/__ExternalObjects__/Levels/TestMap/5/UP/TSJBMXRJF7L6JVG8Q70BFX
+/Game/__ExternalObjects__/Levels/TestMap/2/91/8HDS8QXJITU35XHS692W3J
+/Game/__ExternalActors__/Levels/TestMap/C/02/32DY9OIN5DOSM9WS4JDZ8B
+/Game/__ExternalActors__/Levels/TestMap/4/9L/NG7SNRNPR2CJCG692NI4EJ
+/Game/__ExternalActors__/Levels/TestMap/0/YX/ZE5E0NVM5INICOJ7LCE2IY
+/Game/__ExternalActors__/Levels/TestMap/B/S3/5LJ0BXF1330LIP1Q5I2COQ
+/Game/__ExternalActors__/Levels/TestMap/E/KE/GJ5CS6YD057NLWVU54UXZZ
+/Game/__ExternalActors__/Levels/TestMap/8/RI/FH2H6O4OVPGJIFA258JAMZ
+/Game/__ExternalActors__/Levels/TestMap/5/VL/LNJ83BOREKC0HVH2J5N1JJ
+/Game/__ExternalActors__/Levels/TestMap/1/JE/4UVF057Y3IXDF9YSW89E9D
+/Game/__ExternalActors__/Levels/TestMap/5/T7/680H4FKWIOZE41ZSK0SM4K
+/Game/__ExternalActors__/Levels/TestMap/C/NE/P75HIL3SPNU2WY5ZDHQIOG
+/Game/__ExternalActors__/Levels/TestMap/0/UI/7PWS6OHDIM5IMMNXSBTGYC
+/Game/__ExternalActors__/Levels/TestMap/D/QQ/68HGOBP3R0XE4VC69X1AJL
+/Game/__ExternalActors__/Levels/TestMap/E/XW/S10OQPKSTI3LNLGSUVWIEC
+/Game/__ExternalActors__/Levels/TestMap/A/G9/XNVERRRJ6AST5ZL9DVDVN2
+/Game/__ExternalActors__/Levels/TestMap/2/6F/Z80K2JCXF7CYCHT6GYD7TX
+/Game/__ExternalActors__/Levels/TestMap/9/AT/4CV6LRXRLCTCP890KT47WH
+/Game/__ExternalActors__/Levels/TestMap/9/R5/XGCQ9N3AQ4L1QC9R0G5YN7
+/Game/__ExternalActors__/Levels/TestMap/0/3E/5NX4ARRUCHW8X2EV7E4I3A
+/Game/__ExternalActors__/Levels/TestMap/5/5L/PTS5WTZRA5QZ6D6NOZ559D
+/Game/__ExternalActors__/Levels/TestMap/9/AV/GZLNR8H47BB6OHSXGQVMQU
+/Game/__ExternalActors__/Levels/TestMap/3/6A/Q3DOZIHAMOV5MVHSHAVF99
+/Game/__ExternalActors__/Levels/TestMap/8/AO/DSX6XEX99O2FDXYAOXG6TW
+/Game/__ExternalActors__/Levels/TestMap/A/0T/C105SX79LRP4KBI52ZKX2P
+/Game/__ExternalActors__/Levels/TestMap/B/6R/X46D8RUWJIB93JEZ2ZU1WP
+/Game/__ExternalActors__/Levels/TestMap/9/3K/NV1QMBA0O55SKVI7PTUHFS
+/Game/__ExternalActors__/Levels/TestMap/9/38/CCRQZHDV5V247S44JMQN79
+/Game/__ExternalActors__/Levels/TestMap/B/K7/3CWIQTCNP317UYPZI30KRR
+/Game/__ExternalActors__/Levels/TestMap/1/X4/CLPII0042UULKVU7840LE9
+/Game/__ExternalActors__/Levels/TestMap/C/31/MDDF9HCPEW5T5Z3Q8DB5VW
+/Game/__ExternalActors__/Levels/TestMap/3/64/Z6L6GXNFZQCBIQF2RXIZ44
+/Game/__ExternalActors__/Levels/TestMap/2/Q1/3WXYGUI8E1WV250BRW93IJ
+/Game/__ExternalActors__/Levels/TestMap/A/AM/XSNT26ZIV9GOYF63C3B9LO
+/Game/__ExternalActors__/Levels/TestMap/B/BX/SEQFWLH9EG4RLY3IWWMRXU
+/Game/__ExternalActors__/Levels/TestMap/B/3J/Y8MYCDWOR3T79WV0KW2HE7
+/Game/__ExternalActors__/Levels/TestMap/8/87/JY68VMKEV0HE36QCVRBP2Y
+/Game/__ExternalActors__/Levels/TestMap/3/YC/CPY8B9YJRAG6TMSQOYKH04
+/Game/__ExternalActors__/Levels/TestMap/3/FO/J5JWT6LM74SVDRT3XDDUJ6
+/Game/__ExternalActors__/Levels/TestMap/5/WK/MD30A7TJYCEHEHZQJZ0301
+/Game/__ExternalActors__/Levels/TestMap/A/CQ/6EICMRQEL87EOHYT4QF8SV
+/Game/__ExternalActors__/Levels/TestMap/2/CU/IOBYE1BMULN6LQEUO1IF47
+/Game/__ExternalActors__/Levels/TestMap/2/ZZ/KU146SX8E6OS1LWR4Q79YF
+/Game/__ExternalActors__/Levels/TestMap/9/CL/58NC29RXBX2SNAIG7XDC73
+/Game/__ExternalActors__/Levels/TestMap/D/1G/W5YTH3QYCWZX0CD9KWDEME
+/Game/__ExternalActors__/Levels/TestMap/C/ED/S8I5280ZXOFGGU12E4HXIF
+/Game/__ExternalActors__/Levels/TestMap/1/W1/KK8YMZAK9PT5X7QF857TNM
+/Game/__ExternalActors__/Levels/TestMap/E/P9/RB200FOSFX9AYTB7I6DMHX
+/Game/__ExternalActors__/Levels/TestMap/C/NU/5RBP3BY6E81NKL2548RASB
+/Game/__ExternalActors__/Levels/TestMap/9/S6/TMS83WOWNBGKLDS66GF0X7
+/Game/__ExternalActors__/Levels/TestMap/3/BQ/C7SIGZ0UDUULI302IRHQA9
+/Game/__ExternalActors__/Levels/TestMap/1/IC/ON47WMZKGER24LGUH32MDP
+/Game/__ExternalActors__/Levels/TestMap/8/CO/J4UIV17MRB28SELE3GLR2Q
+/Game/__ExternalActors__/Levels/TestMap/6/5X/X2H5PZIOWCJU1SZWFQ7WSA
+/Game/__ExternalActors__/Levels/TestMap/9/6D/9ZUDEOH9241Z1HLISLYTPC
+/Game/__ExternalActors__/Levels/TestMap/6/5H/C0PVMZCID4VRYZWV7KBLHP
+/Game/__ExternalActors__/Levels/TestMap/0/96/P1LPAP3TJ83M017RNVEX0M
+/Game/__ExternalActors__/Levels/TestMap/B/GJ/SCK8NT1WVWQ3LTHZ6GEG1Y
+/Game/__ExternalActors__/Levels/TestMap/7/J3/UY5XO92CF8RG4QJ2I4LBPS
+/Game/__ExternalActors__/Levels/TestMap/1/45/ZA9WQA50QRMKFALWFIM5XH
+/Game/__ExternalActors__/Levels/TestMap/7/E2/DQXNUJ80P1FGP3QDVCF3VK
+/Game/__ExternalActors__/Levels/TestMap/3/JQ/6JVOF6KHHYEN1A48A1VWHT
+/Game/__ExternalActors__/Levels/TestMap/B/8P/JYDHF504QJ7ZK6X2D5FKJT
+/Game/__ExternalActors__/Levels/TestMap/5/3O/Y5VN84KWLM6MFV7B66UIWA
+/Game/__ExternalActors__/Levels/TestMap/6/U4/DIU8MJCICT5R35ZA2GX2FQ
+/Game/__ExternalActors__/Levels/TestMap/4/IU/02QZF4QPFH98Y41SNEKDDP
+/Game/__ExternalActors__/Levels/TestMap/D/GO/V58URJLCTKGHPIGNSYU6XU
+/Game/__ExternalActors__/Levels/TestMap/4/Y7/J1HV1X23YWQTZ8IXH8NPIV
+/Game/__ExternalActors__/Levels/TestMap/4/U0/XU8IKGFUBXW44VRZRTQ43A
+/Game/__ExternalActors__/Levels/TestMap/C/S1/ZQJI4XKIAKY18T13SQH8E2
+/Game/__ExternalActors__/Levels/TestMap/2/K7/Q89DZ51WODK4B44TNTA4V4
+/Game/__ExternalActors__/Levels/TestMap/0/2G/JFM6BTSAKKJGOLG3XG18X5
+/Game/__ExternalActors__/Levels/TestMap/7/0X/2JUO0C5H988241KJ38UVAD
+/Game/__ExternalActors__/Levels/TestMap/A/AW/FAMC9WE687F9GFI9QK0SD8
+/Game/__ExternalActors__/Levels/TestMap/E/PB/AW68ZAC4QC82JZQN61LP2Q
+/Game/__ExternalActors__/Levels/TestMap/5/PQ/DQ1YKVHJ1ZVP4JMYGODEPM
+/Game/__ExternalActors__/Levels/TestMap/D/02/XSAKJSYBXTTDI6SAXOLV95
+/Game/__ExternalActors__/Levels/TestMap/2/AJ/HUGWKP7P1TIM6P2ZQNVEHY
+/Game/__ExternalActors__/Levels/TestMap/7/GQ/5K3IOZ6Z2MF5MGGK1WVYUE
+/Game/__ExternalActors__/Levels/TestMap/0/NB/IXT8MY2I9P69RS1JOB1GQC
+/Game/__ExternalActors__/Levels/TestMap/2/P5/PBFXOO8PWL9GNAC7BCTT1Z
+/Game/__ExternalActors__/Levels/TestMap/E/ZY/P73GRDP6XYW65RVIRKM94P
+/Game/__ExternalActors__/Levels/TestMap/B/KI/8KWGRQOKCLAW4P2MZ6MF3H
+/Game/__ExternalActors__/Levels/TestMap/4/FS/OVLB35DF26BT1M2C2OAB6E
+/Game/__ExternalActors__/Levels/TestMap/9/P7/CUZROGV65Y6IT264N04XCQ
+/Game/__ExternalActors__/Levels/TestMap/C/WM/F5QUX5BMZO0Q8CS6XTFJSS
+/Game/__ExternalActors__/Levels/TestMap/2/ER/3S9RKU66Y2AN1HZPT0SVFE
+/Game/__ExternalActors__/Levels/TestMap/9/T4/95BB2INJ79D2BZC4I59UZK
+/Game/__ExternalActors__/Levels/TestMap/C/17/6I55WHFMCMA19OHZR1L7H7
+/Game/__ExternalActors__/Levels/TestMap/5/B5/XKI31IXATSMD9EA536XTZ8
+/Game/__ExternalActors__/Levels/TestMap/E/DX/P1Q5KBEZNB3N7W2488TK6U
+/Game/__ExternalActors__/Levels/TestMap/9/WI/H7UYTFOBTIT9FC40CMNU04
+/Game/__ExternalActors__/Levels/TestMap/9/TT/8AGTCL1J1HW7NFG8XWVLVO
+/Game/__ExternalActors__/Levels/TestMap/E/6V/LWA7C1NNG86VTP5M2V0E54
+/Game/__ExternalActors__/Levels/TestMap/A/DJ/AVADYGSE27MBO01983I0PQ
+/Game/__ExternalActors__/Levels/TestMap/9/7L/XHQ3FSHUWMAXBNX0UK4QOO
+/Game/__ExternalActors__/Levels/TestMap/B/IJ/PDN4UBUIZ2TIOP40PB0PNL
+/Game/__ExternalActors__/Levels/TestMap/5/IZ/RRBAEGON7FVPZK9JLAUOXV
+/Game/__ExternalActors__/Levels/TestMap/6/EL/ME2JDQU1BW4O1OJDP83SFK
+/Game/__ExternalActors__/Levels/TestMap/9/2N/I1HMS7G2V0SD3QO3F8N8ZX
+/Game/__ExternalActors__/Levels/TestMap/3/8V/41KVNCHQ46YRLRJGKH5WJ1
+/Game/__ExternalActors__/Levels/TestMap/B/YS/NXZQERZXTW4GKV1HD3G0GM
+/Game/__ExternalActors__/Levels/TestMap/E/JC/D402SU0BKFFJLRIIPSNYFY
+/Game/__ExternalActors__/Levels/TestMap/D/N3/HTZIL96VSJ5DWK6N8H0NFX
+/Game/__ExternalActors__/Levels/TestMap/C/V5/MN2830ZLJRLLV6J5MD3ERB
+/Game/__ExternalActors__/Levels/TestMap/3/L1/ON6U35HC1BM7ZHMJ5YM1BG
+/Game/__ExternalActors__/Levels/TestMap/7/TD/7CV9ML7L5TOYCQRUURXN5W
+/Game/__ExternalActors__/Levels/TestMap/7/S4/XIYNHT6WY1V482OA36Y744
+/Game/__ExternalActors__/Levels/TestMap/E/25/EWUFUG08W4Z7YVA2U54CB4
+/Game/__ExternalActors__/Levels/TestMap/9/IF/YQECTHWVSE5Q1AJSC62YZ2
+/Game/__ExternalActors__/Levels/TestMap/1/UO/LGNK6XKOCG9L6ZPYA7SVAC
+/Game/__ExternalActors__/Levels/TestMap/C/K8/X80U77I6TTAHHYW4SFWCCA
+/Game/__ExternalActors__/Levels/TestMap/A/WP/MROQ3VZIHPWPYJYLBRSXLL
+/Game/__ExternalActors__/Levels/TestMap/6/BD/BH8W4CU2UYSIM65UPADER8
+/Game/__ExternalActors__/Levels/TestMap/3/J4/M8TUWIKXFHOF0T86TTJ22V
+/Game/__ExternalActors__/Levels/TestMap/4/CA/V3N3EP7GZRDG4UA8FJFXHH
+/Game/__ExternalActors__/Levels/TestMap/A/JZ/M47OKSPB64CBXS8WG0M66M
+/Game/__ExternalActors__/Levels/TestMap/1/WZ/LMJ891ZR8NPS8H8QXGDZRF
+/Game/__ExternalActors__/Levels/TestMap/0/03/V8AA5QQPNX2WVMNGVN2YNT
+/Game/__ExternalActors__/Levels/TestMap/F/3Q/VGZVZLIFSZB2BVHNQ02R4F
+/Game/__ExternalActors__/Levels/TestMap/C/AA/5934MLKJFWO79GP8B4FTJV
+/Game/__ExternalActors__/Levels/TestMap/3/0C/18TLD2FGLQ5KZXLD1AAVK1
+/Game/__ExternalActors__/Levels/TestMap/B/U2/PUIBLQQIUMGFWZDZ57GSDT
+/Game/__ExternalActors__/Levels/TestMap/A/OJ/EHQA582QLZTX6K7IC33J2F
+/Game/__ExternalActors__/Levels/TestMap/B/0E/1L1H4DQXSDISGB6MP2RNFK
+/Game/__ExternalActors__/Levels/TestMap/D/EU/48UAQUHOM4ALDQEZG2PIF7
+/Game/__ExternalActors__/Levels/TestMap/8/JH/RSHJGYGA2L9K1TBOIC6LS4
+/Game/__ExternalActors__/Levels/TestMap/2/C5/1XJM83DKCFEFPV1R4LE73I
+/Game/__ExternalActors__/Levels/TestMap/9/IN/08DRZ3746XDJ1JJV52R5NO
+/Game/__ExternalActors__/Levels/TestMap/D/HA/RUQVN99PQUQ3V0M0LDJ0BM
+/Game/__ExternalActors__/Levels/TestMap/E/D3/VRVJ4YO8OX9FEF74GESVOD
+/Game/__ExternalActors__/Levels/TestMap/0/VN/S9XBAX9AYLGORARNGDNVO1
+/Game/__ExternalActors__/Levels/TestMap/2/QG/FNQEAMU864CWNWP6LLS2DG
+/Game/__ExternalActors__/Levels/TestMap/3/DK/Z7GLG0MBO2J004LI247XMN
+/Game/__ExternalActors__/Levels/TestMap/D/92/XJ5NFKC00XG5ED9KGGXI8K
+/Game/__ExternalActors__/Levels/TestMap/8/P3/WKS5MW8N1FOHVQ9XFY7RWJ
+/Game/__ExternalActors__/Levels/TestMap/5/8H/0K7SDL7KTBT1605P2KLZQN
+/Game/__ExternalActors__/Levels/TestMap/1/RB/041U3Z2YX4DYOUT92BRETT
+/Game/__ExternalActors__/Levels/TestMap/C/OE/72SI0U825Y8TTNLPC80VCG
+/Game/__ExternalObjects__/Levels/TestMap/D/DW/60X4Y3CAWPH3NIXBKJVTSM
+/Game/__ExternalObjects__/Levels/TestMap/1/86/5Y8OUIM8OGP5XBVOZGRHT9
+/Game/__ExternalObjects__/Levels/TestMap/4/NO/O1BIIG0OBOJ57YSAL9O632
+/Game/__ExternalObjects__/Levels/TestMap/6/KX/0JY0JMPLTKPCHCF25HJSCO
+/Game/__ExternalObjects__/Levels/TestMap/9/GH/50B76E126QO1KSIJ0KJV2M
+/Game/__ExternalObjects__/Levels/TestMap/B/ZA/Y16VE26P7SW1AY7ONLM6OX
+/Game/__ExternalObjects__/Levels/TestMap/C/4I/UH5FRWZ09A21J2TG3T5KEU
+/Game/__ExternalObjects__/Levels/TestMap/8/AU/JVP387BUK4KX7ZNGQ6YXKQ
+/Game/__ExternalObjects__/Levels/TestMap/8/DI/RSCUTS54TH5X8EJNFHMJ7R
+/Game/__ExternalObjects__/Levels/TestMap/6/EX/OJVS7GYW6H1VGGNDVNPHS8
+/Game/__ExternalObjects__/Levels/TestMap/4/Q9/2PNHN7IETB51P4O5X8MU2Y
+/Game/__ExternalObjects__/Levels/TestMap/B/ZL/DPZRX5EMT0TYOYDGV7P5IU
+/Game/__ExternalObjects__/Levels/TestMap/7/0P/9IDY2C0E9HOPPT58LW4D0X
+/Game/__ExternalObjects__/Levels/TestMap/F/2Y/1I2W82KVXEU63V2K9WCP5B
+/Game/__ExternalObjects__/Levels/TestMap/A/L4/ASNJZES1Y8LNYA8IPX1GTO
+/Game/__ExternalObjects__/Levels/TestMap/7/G3/7GI9A46FT3MN8WGYNZZG1X
+/Game/__ExternalObjects__/Levels/TestMap/4/DA/3B36EU4U6AD4D4ZRP3K2ER
+/Game/__ExternalObjects__/Levels/TestMap/6/IL/3FIAJF1QBADP7Y9RAQA0OB
+/Game/__ExternalObjects__/Levels/TestMap/B/5N/ZBH3CAD7PE2AVPA1ILQT6S
+/Game/__ExternalObjects__/Levels/TestMap/4/3X/9MMEYW8MQUP59F5ZWSFAUP
+/Game/__ExternalObjects__/Levels/TestMap/2/8K/US8JOMFMZP8HHIRONFFOOD
+/Game/__ExternalObjects__/Levels/TestMap/E/YI/QFH1A4I5TPGPRI0RYJM22N
+/Game/__ExternalObjects__/Levels/TestMap/8/ZL/EXG3C0FT6BF1ZAC51XZJWM
+/Game/__ExternalObjects__/Levels/TestMap/A/88/A5B81OUN77ZZDLRXCSXSMF
+/Game/__ExternalObjects__/Levels/TestMap/7/NZ/RKCCVVJM8R9IQG4VI3D5RI
+/Game/__ExternalObjects__/Levels/TestMap/A/FD/72JO1N3Z2Q1K4ZQUL4DP0G
+/Game/__ExternalObjects__/Levels/TestMap/0/H9/R5FQB58ZEKR0F66X3U13S3
+/Game/__ExternalObjects__/Levels/TestMap/6/M6/LBNHSQW71ZONRPVB6EXWTJ
+/Game/__ExternalObjects__/Levels/TestMap/8/W3/U1FK5NVTEG55O8TFIR5T0W
+/Game/__ExternalObjects__/Levels/TestMap/E/0M/OLA33MVYVHUN7IMRWV5WDG
+/Game/__ExternalObjects__/Levels/TestMap/8/32/QRG5TPXB4AE5LWOCA4DW6O
+/Game/__ExternalObjects__/Levels/TestMap/5/L6/58HRRQH5W97ZSV7RHTAYHA
+/Game/__ExternalObjects__/Levels/TestMap/2/E2/CWDB9JUG5JXIWY40XBCF3X
+/Game/__ExternalObjects__/Levels/TestMap/8/CZ/146AKCPD7C12NQAOLXSDSC
+/Game/__ExternalObjects__/Levels/TestMap/4/OX/ZP970GMQJIOXM3BYWWUL4O
+/Game/__ExternalObjects__/Levels/TestMap/7/KC/81LTBKCT7IP01LI28BR5SK
+/Game/__ExternalObjects__/Levels/TestMap/D/IA/9KD4ISYU62BXSBQQ4F1CN1
+/Game/__ExternalObjects__/Levels/TestMap/0/ZQ/POA3RSTH4BMXNF3SQ29WTJ
+/Game/__ExternalObjects__/Levels/TestMap/2/FP/OWRM1EY5BN7HC8PX8WZ8VY
+/Game/__ExternalObjects__/Levels/TestMap/8/9R/52Y7GFN69WBA8R7EY83LLV
+/Game/__ExternalObjects__/Levels/TestMap/8/1L/LPNCZR0YV41LNFBTFE5GES
+/Game/__ExternalObjects__/Levels/TestMap/3/B0/I41NKOSWMGQXY91GUGDQ1W
+/Game/__ExternalObjects__/Levels/TestMap/2/A8/Q0XQHG7PEOWY14QFU1X77D
+/Game/__ExternalObjects__/Levels/TestMap/7/PA/HIAP9YWV2JCNQTDX80YLTI
+/Game/__ExternalObjects__/Levels/TestMap/9/QP/6ZZHXNBC380XNG3U3WA3PI
+/Game/__ExternalObjects__/Levels/TestMap/E/36/QGKX5ACSF978AWCTYCIONX
+/Game/__ExternalObjects__/Levels/TestMap/6/YR/SL3ACD8KHB0INHUSJGNKTA
+/Game/__ExternalObjects__/Levels/TestMap/D/3Q/IPSAFLYXQXV892TG7CGIA0
+/Game/__ExternalObjects__/Levels/TestMap/1/57/X9K0MWPUGDAY44JPC4SBZ8
+/Game/__ExternalObjects__/Levels/TestMap/D/4A/KZXJEVSIRRIIZ71PH6484K
+/Game/__ExternalObjects__/Levels/TestMap/0/UB/ZLTV41R6W4F0UGI7D89Z5V
+/Game/__ExternalObjects__/Levels/TestMap/5/GW/5ZUZE4545EBE877Y67NFSX
+/Game/__ExternalObjects__/Levels/TestMap/6/KH/VOZOREK7269FQFDNXJGSJD
+/Game/__ExternalObjects__/Levels/TestMap/9/4F/44KLIV7J3E31OA7IJYWX85
+/Game/__ExternalObjects__/Levels/TestMap/1/4J/00GUE2EFMT2H9NH6H0W2PD
+/Game/__ExternalObjects__/Levels/TestMap/E/X2/SLMOVP7RUR06RNO7P1S91D
+/Game/__ExternalObjects__/Levels/TestMap/4/IM/GK3CJNXYL3E10FM81EW5GE
+/Game/__ExternalObjects__/Levels/TestMap/4/BP/I5T25FHDWF1FK84RVZ4ODB
+/Game/__ExternalObjects__/Levels/TestMap/D/LY/TFGZP5RJ3X4U4QCW5F0ZQS
+/Game/__ExternalObjects__/Levels/TestMap/C/BT/O0NE711M3CCCAN7T6QPQW2
+/Game/__ExternalObjects__/Levels/TestMap/D/FK/R7B2R14266WJ4ZUGCSB5KB
+/Game/__ExternalObjects__/Levels/TestMap/5/CZ/NN776M96GZWKHWDU9SS9NV
+/Game/__ExternalObjects__/Levels/TestMap/7/ZH/DKXMS2L30YGI0NEJC5WHCN
+/Game/__ExternalObjects__/Levels/TestMap/4/3Y/VEIM6SJCSBIZRGOWLH6VSQ
+/Game/__ExternalObjects__/Levels/TestMap/5/LU/5UHG5MY8QK4XVAMQGCRSG2
+/Game/__ExternalObjects__/Levels/TestMap/5/W7/JO645J0KRTH6FHUG5SIF61
+/Game/__ExternalObjects__/Levels/TestMap/0/75/J3G1BOH210ENG7JE0SHSQ3
+/Game/__ExternalObjects__/Levels/TestMap/7/9S/ZIW1ZGQ34EZ66Y52BY4PON
+/Game/__ExternalObjects__/Levels/TestMap/E/B7/E1PHFN54MDBPBWB0IJLEAE
+/Game/__ExternalObjects__/Levels/TestMap/D/QJ/6EGEQRLNEBIH8WLWRA4VY3
+/Game/__ExternalObjects__/Levels/TestMap/7/V1/XO0QK4576F4BH0WS3VD29Z
+/Game/__ExternalObjects__/Levels/TestMap/8/6Q/VV6DUPM8LUVXSJO7YCYOJQ
+/Game/__ExternalObjects__/Levels/TestMap/D/DO/FNHPJHXNSH0RB93VFUB7SU
+/Game/__ExternalObjects__/Levels/TestMap/8/H9/4ZTTZVMSZSGGITQE7ZLLX5
+/Game/__ExternalObjects__/Levels/TestMap/2/0C/TL44NMFS1N6I7NYDII03SU
+/Game/__ExternalObjects__/Levels/TestMap/4/WV/NC0Q0P927UV5KELML9DA39
+/Game/__ExternalObjects__/Levels/TestMap/4/HW/B6XGNGWNK4ZB786WEJ726E
+/Game/__ExternalObjects__/Levels/TestMap/C/QI/YV5FB3EUD9CTH8GMRDBLFH
+/Game/__ExternalObjects__/Levels/TestMap/1/V2/ZJWA7RY0C0DZCN97W15QR5
+/Game/__ExternalObjects__/Levels/TestMap/B/RR/D2F45I5PEB90MNLSBVDJNB
+/Game/__ExternalObjects__/Levels/TestMap/B/II/M4UP10UEYT440KF3HMRDSN
+/Game/__ExternalObjects__/Levels/TestMap/0/PQ/78AHQZAR1UI5Y1DHUB45SZ
+/Game/__ExternalObjects__/Levels/TestMap/9/L9/RVK615MRNHFBN224W54M0L
+/Game/__ExternalObjects__/Levels/TestMap/D/VV/5LR9CEKP5PDN8I4D2YMK6M
+/Game/__ExternalObjects__/Levels/TestMap/6/HK/HOPJXSY1E6E0VT7PBQSO4B
+/Game/__ExternalObjects__/Levels/TestMap/8/RM/SI5O67UZ798LHVR83KDWLO
+/Game/__ExternalObjects__/Levels/TestMap/0/R4/80BXPADB8F55IPIOXZ8P6C
+/Game/__ExternalObjects__/Levels/TestMap/7/JG/CEIS3SOO0N9W81S15MMAY9
+/Game/__ExternalObjects__/Levels/TestMap/9/JE/5D7R1U9V99MIB3D1KTW1W7
+/Game/__ExternalObjects__/Levels/TestMap/3/UL/3JJYHB3QNCGAQBHSFLXFGS
+/Game/__ExternalObjects__/Levels/TestMap/2/1Q/8MQCJSG6SB1TH5QGQCYOXD
+/Game/__ExternalObjects__/Levels/TestMap/3/6Z/UOAK9BEE7BEPP2PNY8T5RU
+/Game/__ExternalObjects__/Levels/TestMap/1/NJ/2OY0T5M7OZA3617AT3T9VP
+/Game/__ExternalObjects__/Levels/TestMap/3/PG/J681AH98KO8S1ST0AIAK8X
+/Game/__ExternalObjects__/Levels/TestMap/5/28/UEOHZ9F21GINYH5COIS1ZH
+/Game/__ExternalObjects__/Levels/TestMap/E/PD/BLJ1299HAAZE20YXCU55EM
+/Game/__ExternalObjects__/Levels/TestMap/C/ST/8FVZV67SYW41VJJYXFKROM
+/Game/__ExternalObjects__/Levels/TestMap/1/PV/MTX5V41IW1I62VUOZR7EGW
+/Game/__ExternalObjects__/Levels/TestMap/B/6T/3BSCXJXSWP4LRT6TMFRH5X
+/Game/__ExternalObjects__/Levels/TestMap/0/JS/HV92982J5GZB96KRH8G81L
+/Game/__ExternalObjects__/Levels/TestMap/B/7W/8DB8HFKN9MWPWU4FZ5ZLI4
+/Game/__ExternalObjects__/Levels/TestMap/6/I3/EAWGGRVEKU5WZQXOCV8MN2
+/Game/__ExternalObjects__/Levels/TestMap/2/EZ/ERXPOT6BUI4A6QJ8ZT6CVL
+/Game/__ExternalObjects__/Levels/TestMap/1/YB/AXN1OC6EEY06DJBXLT09R3
+/Game/__ExternalObjects__/Levels/TestMap/1/62/6NLJ51SX91V0MZ7X5BCDPL
+/Game/__ExternalObjects__/Levels/TestMap/E/56/YJD62W5DLNWIIJ0DK4MMBH
+/Game/__ExternalObjects__/Levels/TestMap/6/47/7AUQ9UJ48UIW2PDAY72R8U
+/Game/__ExternalObjects__/Levels/TestMap/0/NJ/8G6RO9WFOFT8AI9XCSC2OE
+/Game/__ExternalObjects__/Levels/TestMap/A/HQ/IR25905HGXYSENC5ITKLJK
+/Game/__ExternalObjects__/Levels/TestMap/4/3U/KWQ64203JDZVP8RUAXO7AE
+/Game/__ExternalObjects__/Levels/TestMap/F/2N/0KY5Z31Z501YOH5WCBWPZA
+/Game/__ExternalObjects__/Levels/TestMap/6/1I/HO1SVYQIBJ4JJ03WX5UTEZ
+/Game/__ExternalObjects__/Levels/TestMap/5/76/ZIEQNU2HS9UWOVQQ1SF6YC
+/Game/__ExternalObjects__/Levels/TestMap/1/Y7/QWQ1NTX6ODOJF3TSYTV19X
+/Game/__ExternalObjects__/Levels/TestMap/B/9O/ZJY1SNRITU3L4EHOQXWAR3
+/Game/__ExternalObjects__/Levels/TestMap/D/S9/8ST9C532AR9D0T8T0LX2WB
+/Game/__ExternalObjects__/Levels/TestMap/6/9F/RDRGL7MYV1GWVH5QM9KCR3
+/Game/__ExternalObjects__/Levels/TestMap/0/6K/X6XDVVFC7BXLJH50J63OTO
+/Game/__ExternalObjects__/Levels/TestMap/4/9R/BEXGVXYEZJMJTLWEVT0XG7
+/Game/__ExternalObjects__/Levels/TestMap/A/GO/CCLA1K5GAGP4WPHGEJ8LLX
+/Game/__ExternalObjects__/Levels/TestMap/7/6Z/FCUIKDPQH49D1JQBH5IYSV
+/Game/__ExternalObjects__/Levels/TestMap/5/LE/G4PYEC5RSDGMIXTES4DWNA
+/Game/__ExternalObjects__/Levels/TestMap/6/WS/K5MOOB19IUKGSPTHPX3JR3
+/Game/__ExternalObjects__/Levels/TestMap/3/TU/MNLFMT31H450PKWLUI5Y4C
+/Game/__ExternalObjects__/Levels/TestMap/5/HT/EA5WJX9LCBNZXCMIPIGG8Z
+/Game/__ExternalObjects__/Levels/TestMap/D/2E/G9CRZC0VV9SSNCCN5PRD5S
+/Game/__ExternalObjects__/Levels/TestMap/3/M2/PW9WIOK2C3JU8ACWFRG5WN
+/Game/__ExternalObjects__/Levels/TestMap/1/HU/1C70JC67WXVCXMXSDT686H
+/Game/__ExternalObjects__/Levels/TestMap/9/EK/2NIBIEMNCYKHDG5KHPNDTK
+/Game/__ExternalObjects__/Levels/TestMap/5/Y8/MYHUKME8Y1JXP5Y64KDMDX
+/Game/__ExternalObjects__/Levels/TestMap/A/YM/0B61RBW4G7XZSUPFKLF3WO
+/Game/__ExternalObjects__/Levels/TestMap/A/K9/UHG5PV4U2YVBXT39TAC7RQ
+/Game/__ExternalObjects__/Levels/TestMap/0/7X/CZKFW5NPJCZN2WUH1ESNBP
+/Game/__ExternalObjects__/Levels/TestMap/2/IM/PR0TGDEE9APRLBWUWQ9YSQ
+/Game/__ExternalObjects__/Levels/TestMap/6/BX/V3WA6B1JDSS09SVLCH2OX5
+/Game/__ExternalObjects__/Levels/TestMap/7/WE/26D5VEBBTIDAJ4IBOIOQ91
+/Game/__ExternalObjects__/Levels/TestMap/2/T0/HTZS7JO2MBZRAOWIGBUDTV
+/Game/__ExternalObjects__/Levels/TestMap/D/3N/CI525IK49E2W8R6FE98QWR
+[2025.04.09-17.19.05:815][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-17.19.05:856][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.04.09-17.19.05:878][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.04.09-17.19.05:900][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.04.09-17.19.05:902][545]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/TestMap_HLOD0_Instancing] ([1] browsable assets)...
+[2025.04.09-17.19.05:902][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/TestMap_HLOD0_Instancing]
+[2025.04.09-17.19.05:902][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_HLOD0_Instancing" FILE="../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/Levels/TestMap_HLOD0_Instancing.uasset" SILENT=true
+[2025.04.09-17.19.05:903][545]LogSavePackage: Moving output files for package: /Game/Levels/TestMap_HLOD0_Instancing
+[2025.04.09-17.19.05:903][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/TestMap_HLOD0_Instancing5888B32C4DE3B7F384A0C3AA1A5D0171.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/Levels/TestMap_HLOD0_Instancing.uasset'
+[2025.04.09-17.19.05:905][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/0/6L/C6P3NNQ08SPJ2YF5CVFTNE
+[2025.04.09-17.19.05:905][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/C6P3NNQ08SPJ2YF5CVFTNE02C9E1C44246AB50509CD2902EBF5852.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/0/6L/C6P3NNQ08SPJ2YF5CVFTNE.uasset'
+[2025.04.09-17.19.05:909][545]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Levels/TestMap/C/A4/SCT4I78LDNLJQFQS21VWJ7] ([1] browsable assets)...
+[2025.04.09-17.19.05:909][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Levels/TestMap/C/A4/SCT4I78LDNLJQFQS21VWJ7]
+[2025.04.09-17.19.05:910][545]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/TestMap/C/A4/SCT4I78LDNLJQFQS21VWJ7
+[2025.04.09-17.19.05:910][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/SCT4I78LDNLJQFQS21VWJ756EFDBA645E68D87113560B490720A5E.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalObjects__/Levels/TestMap/C/A4/SCT4I78LDNLJQFQS21VWJ7.uasset'
+[2025.04.09-17.19.05:913][545]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Levels/TestMap/E/18/PQ1UIUJHVM19NQMDOIPUXP] ([1] browsable assets)...
+[2025.04.09-17.19.05:913][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Levels/TestMap/E/18/PQ1UIUJHVM19NQMDOIPUXP]
+[2025.04.09-17.19.05:913][545]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/TestMap/E/18/PQ1UIUJHVM19NQMDOIPUXP
+[2025.04.09-17.19.05:913][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/PQ1UIUJHVM19NQMDOIPUXP49F8FB2648BD3EB46092D5BBFB9DBF9C.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalObjects__/Levels/TestMap/E/18/PQ1UIUJHVM19NQMDOIPUXP.uasset'
+[2025.04.09-17.19.05:915][545]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Levels/TestMap/2/UH/KKYZSX9LQS8E55I09NTEMO] ([1] browsable assets)...
+[2025.04.09-17.19.05:915][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Levels/TestMap/2/UH/KKYZSX9LQS8E55I09NTEMO]
+[2025.04.09-17.19.05:916][545]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/TestMap/2/UH/KKYZSX9LQS8E55I09NTEMO
+[2025.04.09-17.19.05:916][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/KKYZSX9LQS8E55I09NTEMOACFF10AC44E78CD38FABD981619096F6.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalObjects__/Levels/TestMap/2/UH/KKYZSX9LQS8E55I09NTEMO.uasset'
+[2025.04.09-17.19.05:918][545]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Levels/TestMap/9/ZD/CLBRP61QX4DJ4JAA8GP6CR] ([1] browsable assets)...
+[2025.04.09-17.19.05:918][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Levels/TestMap/9/ZD/CLBRP61QX4DJ4JAA8GP6CR]
+[2025.04.09-17.19.05:919][545]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/TestMap/9/ZD/CLBRP61QX4DJ4JAA8GP6CR
+[2025.04.09-17.19.05:919][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/CLBRP61QX4DJ4JAA8GP6CRA1108ECD4E2B9045D09C94AA8CAEB221.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalObjects__/Levels/TestMap/9/ZD/CLBRP61QX4DJ4JAA8GP6CR.uasset'
+[2025.04.09-17.19.05:920][545]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Levels/TestMap/5/UP/TSJBMXRJF7L6JVG8Q70BFX] ([1] browsable assets)...
+[2025.04.09-17.19.05:920][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Levels/TestMap/5/UP/TSJBMXRJF7L6JVG8Q70BFX]
+[2025.04.09-17.19.05:921][545]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/TestMap/5/UP/TSJBMXRJF7L6JVG8Q70BFX
+[2025.04.09-17.19.05:921][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/TSJBMXRJF7L6JVG8Q70BFXE4BEF2894F759F77CA693B866CA4D6FF.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalObjects__/Levels/TestMap/5/UP/TSJBMXRJF7L6JVG8Q70BFX.uasset'
+[2025.04.09-17.19.05:923][545]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Levels/TestMap/2/91/8HDS8QXJITU35XHS692W3J] ([1] browsable assets)...
+[2025.04.09-17.19.05:923][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Levels/TestMap/2/91/8HDS8QXJITU35XHS692W3J]
+[2025.04.09-17.19.05:923][545]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/TestMap/2/91/8HDS8QXJITU35XHS692W3J
+[2025.04.09-17.19.05:923][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/8HDS8QXJITU35XHS692W3J692A09F34DD89F119F295A9CCE8B6FD9.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalObjects__/Levels/TestMap/2/91/8HDS8QXJITU35XHS692W3J.uasset'
+[2025.04.09-17.19.05:991][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/C/02/32DY9OIN5DOSM9WS4JDZ8B
+[2025.04.09-17.19.05:992][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/32DY9OIN5DOSM9WS4JDZ8B78CB9ADE4021702D22E9FDB17F0FC126.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/C/02/32DY9OIN5DOSM9WS4JDZ8B.uasset'
+[2025.04.09-17.19.05:995][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/4/9L/NG7SNRNPR2CJCG692NI4EJ
+[2025.04.09-17.19.05:995][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/NG7SNRNPR2CJCG692NI4EJ389BF7BE4543CDC27BC205B8491FCDD8.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/4/9L/NG7SNRNPR2CJCG692NI4EJ.uasset'
+[2025.04.09-17.19.05:997][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/0/YX/ZE5E0NVM5INICOJ7LCE2IY
+[2025.04.09-17.19.05:997][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/ZE5E0NVM5INICOJ7LCE2IY5A5AA52C47BB6D25B603DFB709CF3977.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/0/YX/ZE5E0NVM5INICOJ7LCE2IY.uasset'
+[2025.04.09-17.19.06:000][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/B/S3/5LJ0BXF1330LIP1Q5I2COQ
+[2025.04.09-17.19.06:000][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/5LJ0BXF1330LIP1Q5I2COQ8D8F8F584F2E6E5D3F3E0FA1DBFADFF7.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/B/S3/5LJ0BXF1330LIP1Q5I2COQ.uasset'
+[2025.04.09-17.19.06:003][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/E/KE/GJ5CS6YD057NLWVU54UXZZ
+[2025.04.09-17.19.06:003][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/GJ5CS6YD057NLWVU54UXZZF80FD1564C6A1CE3031117AB6937CD93.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/E/KE/GJ5CS6YD057NLWVU54UXZZ.uasset'
+[2025.04.09-17.19.06:007][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/8/RI/FH2H6O4OVPGJIFA258JAMZ
+[2025.04.09-17.19.06:007][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/FH2H6O4OVPGJIFA258JAMZ705ADEB043F40B0CBA6B458BB119B52B.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/8/RI/FH2H6O4OVPGJIFA258JAMZ.uasset'
+[2025.04.09-17.19.06:010][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/5/VL/LNJ83BOREKC0HVH2J5N1JJ
+[2025.04.09-17.19.06:010][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/LNJ83BOREKC0HVH2J5N1JJ9241920F47BFD1DD252B5EA918F0A5BB.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/5/VL/LNJ83BOREKC0HVH2J5N1JJ.uasset'
+[2025.04.09-17.19.06:013][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/1/JE/4UVF057Y3IXDF9YSW89E9D
+[2025.04.09-17.19.06:013][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/4UVF057Y3IXDF9YSW89E9DA3145B6141DC65696F2BB3B326FFB58D.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/1/JE/4UVF057Y3IXDF9YSW89E9D.uasset'
+[2025.04.09-17.19.06:018][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/5/T7/680H4FKWIOZE41ZSK0SM4K
+[2025.04.09-17.19.06:018][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/680H4FKWIOZE41ZSK0SM4KAC9CB3E548F584E1D62F5B9453B143E8.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/5/T7/680H4FKWIOZE41ZSK0SM4K.uasset'
+[2025.04.09-17.19.06:045][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/C/NE/P75HIL3SPNU2WY5ZDHQIOG
+[2025.04.09-17.19.06:045][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/P75HIL3SPNU2WY5ZDHQIOGF4FE6C1F40BEAA82BABFC390258A4FC7.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/C/NE/P75HIL3SPNU2WY5ZDHQIOG.uasset'
+[2025.04.09-17.19.06:068][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/0/UI/7PWS6OHDIM5IMMNXSBTGYC
+[2025.04.09-17.19.06:068][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/7PWS6OHDIM5IMMNXSBTGYC04B1340145128273F7B5F5AE01DCAED7.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/0/UI/7PWS6OHDIM5IMMNXSBTGYC.uasset'
+[2025.04.09-17.19.06:091][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/D/QQ/68HGOBP3R0XE4VC69X1AJL
+[2025.04.09-17.19.06:091][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/68HGOBP3R0XE4VC69X1AJLA64644114786A04D7E9AE2A5A6268388.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/D/QQ/68HGOBP3R0XE4VC69X1AJL.uasset'
+[2025.04.09-17.19.06:114][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/E/XW/S10OQPKSTI3LNLGSUVWIEC
+[2025.04.09-17.19.06:115][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/S10OQPKSTI3LNLGSUVWIEC9DED3144467137E96558D480676F7220.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/E/XW/S10OQPKSTI3LNLGSUVWIEC.uasset'
+[2025.04.09-17.19.06:136][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/A/G9/XNVERRRJ6AST5ZL9DVDVN2
+[2025.04.09-17.19.06:136][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/XNVERRRJ6AST5ZL9DVDVN217E3E42942D1293E9689948FD055F7AB.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/A/G9/XNVERRRJ6AST5ZL9DVDVN2.uasset'
+[2025.04.09-17.19.06:159][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/2/6F/Z80K2JCXF7CYCHT6GYD7TX
+[2025.04.09-17.19.06:159][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/Z80K2JCXF7CYCHT6GYD7TX4E8FC13C4F5E6A21DF85A0A84A5E484B.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/2/6F/Z80K2JCXF7CYCHT6GYD7TX.uasset'
+[2025.04.09-17.19.06:181][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/9/AT/4CV6LRXRLCTCP890KT47WH
+[2025.04.09-17.19.06:181][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/4CV6LRXRLCTCP890KT47WHA2F730DF41A730D48A3E15B39F029D89.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/9/AT/4CV6LRXRLCTCP890KT47WH.uasset'
+[2025.04.09-17.19.06:205][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/9/R5/XGCQ9N3AQ4L1QC9R0G5YN7
+[2025.04.09-17.19.06:205][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/XGCQ9N3AQ4L1QC9R0G5YN7F91D41BA47E6B0B26FE2A5B37ACF4F69.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/9/R5/XGCQ9N3AQ4L1QC9R0G5YN7.uasset'
+[2025.04.09-17.19.06:228][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/0/3E/5NX4ARRUCHW8X2EV7E4I3A
+[2025.04.09-17.19.06:228][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/5NX4ARRUCHW8X2EV7E4I3A2372DD8C45A2EA44AB3AA5803B722997.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/0/3E/5NX4ARRUCHW8X2EV7E4I3A.uasset'
+[2025.04.09-17.19.06:253][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/5/5L/PTS5WTZRA5QZ6D6NOZ559D
+[2025.04.09-17.19.06:253][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/PTS5WTZRA5QZ6D6NOZ559D30231D3D4474AD9361B080BD0B60FE21.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/5/5L/PTS5WTZRA5QZ6D6NOZ559D.uasset'
+[2025.04.09-17.19.06:278][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/9/AV/GZLNR8H47BB6OHSXGQVMQU
+[2025.04.09-17.19.06:278][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/GZLNR8H47BB6OHSXGQVMQUA61691B741E1DE76BF5D7EA820F52DA9.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/9/AV/GZLNR8H47BB6OHSXGQVMQU.uasset'
+[2025.04.09-17.19.06:302][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/3/6A/Q3DOZIHAMOV5MVHSHAVF99
+[2025.04.09-17.19.06:303][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/Q3DOZIHAMOV5MVHSHAVF99CE03FCF449F205740F360199CABB6EF9.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/3/6A/Q3DOZIHAMOV5MVHSHAVF99.uasset'
+[2025.04.09-17.19.06:327][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/8/AO/DSX6XEX99O2FDXYAOXG6TW
+[2025.04.09-17.19.06:328][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/DSX6XEX99O2FDXYAOXG6TWF0808E2B4D09FA17505CE7B20D4AAF2D.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/8/AO/DSX6XEX99O2FDXYAOXG6TW.uasset'
+[2025.04.09-17.19.06:352][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/A/0T/C105SX79LRP4KBI52ZKX2P
+[2025.04.09-17.19.06:353][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/C105SX79LRP4KBI52ZKX2PC8FEF362471E6116ADD4B8ABF66CFB01.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/A/0T/C105SX79LRP4KBI52ZKX2P.uasset'
+[2025.04.09-17.19.06:378][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/B/6R/X46D8RUWJIB93JEZ2ZU1WP
+[2025.04.09-17.19.06:378][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/X46D8RUWJIB93JEZ2ZU1WP8BD1738A4B484F155541A18A78C06AD1.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/B/6R/X46D8RUWJIB93JEZ2ZU1WP.uasset'
+[2025.04.09-17.19.06:403][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/9/3K/NV1QMBA0O55SKVI7PTUHFS
+[2025.04.09-17.19.06:403][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/NV1QMBA0O55SKVI7PTUHFS6AEEC8E946F3788A4AD3C29CF5AEA5AE.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/9/3K/NV1QMBA0O55SKVI7PTUHFS.uasset'
+[2025.04.09-17.19.06:427][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/9/38/CCRQZHDV5V247S44JMQN79
+[2025.04.09-17.19.06:427][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/CCRQZHDV5V247S44JMQN79A8F92B254B73979BB45A88ADF07842E9.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/9/38/CCRQZHDV5V247S44JMQN79.uasset'
+[2025.04.09-17.19.06:453][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/B/K7/3CWIQTCNP317UYPZI30KRR
+[2025.04.09-17.19.06:453][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/3CWIQTCNP317UYPZI30KRR2F62727B4D7E5D8FBCE8D1A72F070A07.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/B/K7/3CWIQTCNP317UYPZI30KRR.uasset'
+[2025.04.09-17.19.06:476][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/1/X4/CLPII0042UULKVU7840LE9
+[2025.04.09-17.19.06:476][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/CLPII0042UULKVU7840LE90155F15943039B1A871F7693E16C057B.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/1/X4/CLPII0042UULKVU7840LE9.uasset'
+[2025.04.09-17.19.06:501][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/C/31/MDDF9HCPEW5T5Z3Q8DB5VW
+[2025.04.09-17.19.06:501][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/MDDF9HCPEW5T5Z3Q8DB5VW9EDE43434AEDA9890232559D4277B7B2.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/C/31/MDDF9HCPEW5T5Z3Q8DB5VW.uasset'
+[2025.04.09-17.19.06:525][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/3/64/Z6L6GXNFZQCBIQF2RXIZ44
+[2025.04.09-17.19.06:525][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/Z6L6GXNFZQCBIQF2RXIZ443197A241434FC23EBA68CB8009A39C12.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/3/64/Z6L6GXNFZQCBIQF2RXIZ44.uasset'
+[2025.04.09-17.19.06:549][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/2/Q1/3WXYGUI8E1WV250BRW93IJ
+[2025.04.09-17.19.06:549][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/3WXYGUI8E1WV250BRW93IJC7CB734440636DB556C361A57F12AA45.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/2/Q1/3WXYGUI8E1WV250BRW93IJ.uasset'
+[2025.04.09-17.19.06:575][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/A/AM/XSNT26ZIV9GOYF63C3B9LO
+[2025.04.09-17.19.06:575][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/XSNT26ZIV9GOYF63C3B9LO4A1539584B266AD203F4AAAA5F6FE0DF.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/A/AM/XSNT26ZIV9GOYF63C3B9LO.uasset'
+[2025.04.09-17.19.06:600][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/B/BX/SEQFWLH9EG4RLY3IWWMRXU
+[2025.04.09-17.19.06:601][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/SEQFWLH9EG4RLY3IWWMRXU97D5CB584F44811A1E7F6CA490518E34.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/B/BX/SEQFWLH9EG4RLY3IWWMRXU.uasset'
+[2025.04.09-17.19.06:625][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/B/3J/Y8MYCDWOR3T79WV0KW2HE7
+[2025.04.09-17.19.06:625][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/Y8MYCDWOR3T79WV0KW2HE7BE9DFCDE494D17B537A05BA0A9C78A44.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/B/3J/Y8MYCDWOR3T79WV0KW2HE7.uasset'
+[2025.04.09-17.19.06:651][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/8/87/JY68VMKEV0HE36QCVRBP2Y
+[2025.04.09-17.19.06:651][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/JY68VMKEV0HE36QCVRBP2Y6B15EEB642816BE6C750AAA8656E8E9C.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/8/87/JY68VMKEV0HE36QCVRBP2Y.uasset'
+[2025.04.09-17.19.06:677][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/3/YC/CPY8B9YJRAG6TMSQOYKH04
+[2025.04.09-17.19.06:677][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/CPY8B9YJRAG6TMSQOYKH04FCD6EC2E49D2599DC0F398BD08A0E50D.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/3/YC/CPY8B9YJRAG6TMSQOYKH04.uasset'
+[2025.04.09-17.19.06:701][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/3/FO/J5JWT6LM74SVDRT3XDDUJ6
+[2025.04.09-17.19.06:701][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/J5JWT6LM74SVDRT3XDDUJ650C84FCD41B6FFDD974EF2A64DAF6B0B.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/3/FO/J5JWT6LM74SVDRT3XDDUJ6.uasset'
+[2025.04.09-17.19.06:724][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/5/WK/MD30A7TJYCEHEHZQJZ0301
+[2025.04.09-17.19.06:724][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/MD30A7TJYCEHEHZQJZ030106C407F746763711A57BC2951314B837.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/5/WK/MD30A7TJYCEHEHZQJZ0301.uasset'
+[2025.04.09-17.19.06:749][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/A/CQ/6EICMRQEL87EOHYT4QF8SV
+[2025.04.09-17.19.06:749][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/6EICMRQEL87EOHYT4QF8SV0189B20B4A71E7A02DF3D4A8BD696A73.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/A/CQ/6EICMRQEL87EOHYT4QF8SV.uasset'
+[2025.04.09-17.19.06:776][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/2/CU/IOBYE1BMULN6LQEUO1IF47
+[2025.04.09-17.19.06:776][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/IOBYE1BMULN6LQEUO1IF47DB97C5964EBCA672C8DFD7956F6C2EB3.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/2/CU/IOBYE1BMULN6LQEUO1IF47.uasset'
+[2025.04.09-17.19.06:804][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/2/ZZ/KU146SX8E6OS1LWR4Q79YF
+[2025.04.09-17.19.06:804][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/KU146SX8E6OS1LWR4Q79YF824A632547F1E995E1D716882BB69B3E.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/2/ZZ/KU146SX8E6OS1LWR4Q79YF.uasset'
+[2025.04.09-17.19.06:833][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/9/CL/58NC29RXBX2SNAIG7XDC73
+[2025.04.09-17.19.06:833][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/58NC29RXBX2SNAIG7XDC736565E9E741FADE82BEEE2CADCC7A0F98.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/9/CL/58NC29RXBX2SNAIG7XDC73.uasset'
+[2025.04.09-17.19.06:856][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/D/1G/W5YTH3QYCWZX0CD9KWDEME
+[2025.04.09-17.19.06:857][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/W5YTH3QYCWZX0CD9KWDEME74E03F2C41469E173B9ACC81470697E3.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/D/1G/W5YTH3QYCWZX0CD9KWDEME.uasset'
+[2025.04.09-17.19.06:881][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/C/ED/S8I5280ZXOFGGU12E4HXIF
+[2025.04.09-17.19.06:881][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/S8I5280ZXOFGGU12E4HXIFF46CFC2040BFC410F6C036B7B9A13A2A.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/C/ED/S8I5280ZXOFGGU12E4HXIF.uasset'
+[2025.04.09-17.19.06:905][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/1/W1/KK8YMZAK9PT5X7QF857TNM
+[2025.04.09-17.19.06:905][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/KK8YMZAK9PT5X7QF857TNMBBB98DD6402D92CC1C7E8484432E2D6E.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/1/W1/KK8YMZAK9PT5X7QF857TNM.uasset'
+[2025.04.09-17.19.06:931][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/E/P9/RB200FOSFX9AYTB7I6DMHX
+[2025.04.09-17.19.06:931][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/RB200FOSFX9AYTB7I6DMHX654C03DA4A5FA107CFC4F996D3651CCF.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/E/P9/RB200FOSFX9AYTB7I6DMHX.uasset'
+[2025.04.09-17.19.06:958][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/C/NU/5RBP3BY6E81NKL2548RASB
+[2025.04.09-17.19.06:958][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/5RBP3BY6E81NKL2548RASBA0549AD54D6664643A1337BCEEA11922.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/C/NU/5RBP3BY6E81NKL2548RASB.uasset'
+[2025.04.09-17.19.06:983][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/9/S6/TMS83WOWNBGKLDS66GF0X7
+[2025.04.09-17.19.06:983][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/TMS83WOWNBGKLDS66GF0X7D9CF9A6C460536417F4E9FA8B5ECA06F.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/9/S6/TMS83WOWNBGKLDS66GF0X7.uasset'
+[2025.04.09-17.19.07:009][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/3/BQ/C7SIGZ0UDUULI302IRHQA9
+[2025.04.09-17.19.07:009][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/C7SIGZ0UDUULI302IRHQA90E9FD7CA4A8035E5439061B04C10BA95.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/3/BQ/C7SIGZ0UDUULI302IRHQA9.uasset'
+[2025.04.09-17.19.07:033][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/1/IC/ON47WMZKGER24LGUH32MDP
+[2025.04.09-17.19.07:033][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/ON47WMZKGER24LGUH32MDPC447757946FE005E79F1B78CE9CE09FC.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/1/IC/ON47WMZKGER24LGUH32MDP.uasset'
+[2025.04.09-17.19.07:057][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/8/CO/J4UIV17MRB28SELE3GLR2Q
+[2025.04.09-17.19.07:057][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/J4UIV17MRB28SELE3GLR2Q6EDE88C84D5B7BE578953CB874F9FA56.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/8/CO/J4UIV17MRB28SELE3GLR2Q.uasset'
+[2025.04.09-17.19.07:082][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/6/5X/X2H5PZIOWCJU1SZWFQ7WSA
+[2025.04.09-17.19.07:082][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/X2H5PZIOWCJU1SZWFQ7WSAD83FC7DE4848F630CFF4C38DBA7423E0.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/6/5X/X2H5PZIOWCJU1SZWFQ7WSA.uasset'
+[2025.04.09-17.19.07:108][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/9/6D/9ZUDEOH9241Z1HLISLYTPC
+[2025.04.09-17.19.07:108][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/9ZUDEOH9241Z1HLISLYTPCB7B78B9444E6B5B68B90669C53F3EBDA.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/9/6D/9ZUDEOH9241Z1HLISLYTPC.uasset'
+[2025.04.09-17.19.07:133][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/6/5H/C0PVMZCID4VRYZWV7KBLHP
+[2025.04.09-17.19.07:133][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/C0PVMZCID4VRYZWV7KBLHPC9C0858B4716E218B8886CA3BE33C66B.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/6/5H/C0PVMZCID4VRYZWV7KBLHP.uasset'
+[2025.04.09-17.19.07:158][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/0/96/P1LPAP3TJ83M017RNVEX0M
+[2025.04.09-17.19.07:158][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/P1LPAP3TJ83M017RNVEX0ME3D9A6B749A3B34A5014A1AF58422EC1.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/0/96/P1LPAP3TJ83M017RNVEX0M.uasset'
+[2025.04.09-17.19.07:185][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/B/GJ/SCK8NT1WVWQ3LTHZ6GEG1Y
+[2025.04.09-17.19.07:185][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/SCK8NT1WVWQ3LTHZ6GEG1YAE2BF38341BF424BDF74DE9C7B2DC014.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/B/GJ/SCK8NT1WVWQ3LTHZ6GEG1Y.uasset'
+[2025.04.09-17.19.07:212][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/7/J3/UY5XO92CF8RG4QJ2I4LBPS
+[2025.04.09-17.19.07:212][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/UY5XO92CF8RG4QJ2I4LBPSFB9979DB45CFC25F163D0CA0E1D2B797.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/7/J3/UY5XO92CF8RG4QJ2I4LBPS.uasset'
+[2025.04.09-17.19.07:239][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/1/45/ZA9WQA50QRMKFALWFIM5XH
+[2025.04.09-17.19.07:239][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/ZA9WQA50QRMKFALWFIM5XHF46C67584DFB70547EC681ABAA15A8F4.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/1/45/ZA9WQA50QRMKFALWFIM5XH.uasset'
+[2025.04.09-17.19.07:262][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/7/E2/DQXNUJ80P1FGP3QDVCF3VK
+[2025.04.09-17.19.07:264][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/DQXNUJ80P1FGP3QDVCF3VKBC553D6C4CADFC1C2D95F782F3B6FCFD.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/7/E2/DQXNUJ80P1FGP3QDVCF3VK.uasset'
+[2025.04.09-17.19.07:287][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/3/JQ/6JVOF6KHHYEN1A48A1VWHT
+[2025.04.09-17.19.07:287][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/6JVOF6KHHYEN1A48A1VWHTCED95C8E4DCBFC2FAA633697F007F146.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/3/JQ/6JVOF6KHHYEN1A48A1VWHT.uasset'
+[2025.04.09-17.19.07:312][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/B/8P/JYDHF504QJ7ZK6X2D5FKJT
+[2025.04.09-17.19.07:312][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/JYDHF504QJ7ZK6X2D5FKJT0C8BF36442950CA87DE13EA7E3D6F73E.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/B/8P/JYDHF504QJ7ZK6X2D5FKJT.uasset'
+[2025.04.09-17.19.07:335][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/5/3O/Y5VN84KWLM6MFV7B66UIWA
+[2025.04.09-17.19.07:335][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/Y5VN84KWLM6MFV7B66UIWA177817C04C60F771946CDF9BDE4E8402.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/5/3O/Y5VN84KWLM6MFV7B66UIWA.uasset'
+[2025.04.09-17.19.07:360][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/6/U4/DIU8MJCICT5R35ZA2GX2FQ
+[2025.04.09-17.19.07:360][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/DIU8MJCICT5R35ZA2GX2FQD1506EDB408AA0E6B069E6856B2DBD7D.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/6/U4/DIU8MJCICT5R35ZA2GX2FQ.uasset'
+[2025.04.09-17.19.07:387][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/4/IU/02QZF4QPFH98Y41SNEKDDP
+[2025.04.09-17.19.07:387][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/02QZF4QPFH98Y41SNEKDDP9CAF7F934FBDAF978E36E8A044E54051.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/4/IU/02QZF4QPFH98Y41SNEKDDP.uasset'
+[2025.04.09-17.19.07:413][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/D/GO/V58URJLCTKGHPIGNSYU6XU
+[2025.04.09-17.19.07:413][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/V58URJLCTKGHPIGNSYU6XUBBC0500A4875DCE11F857086666CA181.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/D/GO/V58URJLCTKGHPIGNSYU6XU.uasset'
+[2025.04.09-17.19.07:437][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/4/Y7/J1HV1X23YWQTZ8IXH8NPIV
+[2025.04.09-17.19.07:437][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/J1HV1X23YWQTZ8IXH8NPIVBE17719D432F3D9AA60128987EC9BD85.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/4/Y7/J1HV1X23YWQTZ8IXH8NPIV.uasset'
+[2025.04.09-17.19.07:462][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/4/U0/XU8IKGFUBXW44VRZRTQ43A
+[2025.04.09-17.19.07:462][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/XU8IKGFUBXW44VRZRTQ43A39D08D4E49EA190B3C2220A6F43FB7FB.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/4/U0/XU8IKGFUBXW44VRZRTQ43A.uasset'
+[2025.04.09-17.19.07:488][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/C/S1/ZQJI4XKIAKY18T13SQH8E2
+[2025.04.09-17.19.07:488][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/ZQJI4XKIAKY18T13SQH8E22770269149A833F66DE0C8B999C801D1.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/C/S1/ZQJI4XKIAKY18T13SQH8E2.uasset'
+[2025.04.09-17.19.07:513][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/2/K7/Q89DZ51WODK4B44TNTA4V4
+[2025.04.09-17.19.07:513][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/Q89DZ51WODK4B44TNTA4V45C97D76D417975415C05BAB807EBCCE7.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/2/K7/Q89DZ51WODK4B44TNTA4V4.uasset'
+[2025.04.09-17.19.07:537][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/0/2G/JFM6BTSAKKJGOLG3XG18X5
+[2025.04.09-17.19.07:537][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/JFM6BTSAKKJGOLG3XG18X5482C959D4BC7F1C36E7E0B883D67D4FB.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/0/2G/JFM6BTSAKKJGOLG3XG18X5.uasset'
+[2025.04.09-17.19.07:560][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/7/0X/2JUO0C5H988241KJ38UVAD
+[2025.04.09-17.19.07:561][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/2JUO0C5H988241KJ38UVADDB15887C48C331E132060A84E0A9DD5A.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/7/0X/2JUO0C5H988241KJ38UVAD.uasset'
+[2025.04.09-17.19.07:585][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/A/AW/FAMC9WE687F9GFI9QK0SD8
+[2025.04.09-17.19.07:585][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/FAMC9WE687F9GFI9QK0SD80E2027EA412F4788957D55A6D2151233.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/A/AW/FAMC9WE687F9GFI9QK0SD8.uasset'
+[2025.04.09-17.19.07:612][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/E/PB/AW68ZAC4QC82JZQN61LP2Q
+[2025.04.09-17.19.07:612][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/AW68ZAC4QC82JZQN61LP2Q2039044E48F3FE863FC5E297E28CA58C.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/E/PB/AW68ZAC4QC82JZQN61LP2Q.uasset'
+[2025.04.09-17.19.07:628][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/5/PQ/DQ1YKVHJ1ZVP4JMYGODEPM
+[2025.04.09-17.19.07:628][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/DQ1YKVHJ1ZVP4JMYGODEPM99F1520346A7306C90C8D4A0B53B4E09.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/5/PQ/DQ1YKVHJ1ZVP4JMYGODEPM.uasset'
+[2025.04.09-17.19.07:641][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/D/02/XSAKJSYBXTTDI6SAXOLV95
+[2025.04.09-17.19.07:641][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/XSAKJSYBXTTDI6SAXOLV95AA0450544C28EF94782D00B5C50064F6.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/D/02/XSAKJSYBXTTDI6SAXOLV95.uasset'
+[2025.04.09-17.19.07:655][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/2/AJ/HUGWKP7P1TIM6P2ZQNVEHY
+[2025.04.09-17.19.07:655][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/HUGWKP7P1TIM6P2ZQNVEHYB3779ADB4F3797F5CD657FACAB8BF690.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/2/AJ/HUGWKP7P1TIM6P2ZQNVEHY.uasset'
+[2025.04.09-17.19.07:667][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/7/GQ/5K3IOZ6Z2MF5MGGK1WVYUE
+[2025.04.09-17.19.07:667][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/5K3IOZ6Z2MF5MGGK1WVYUE689D57B347200A1B788E729B12DBBC56.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/7/GQ/5K3IOZ6Z2MF5MGGK1WVYUE.uasset'
+[2025.04.09-17.19.07:681][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/0/NB/IXT8MY2I9P69RS1JOB1GQC
+[2025.04.09-17.19.07:681][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/IXT8MY2I9P69RS1JOB1GQCB6500C974F36893B3E572CBEB5917470.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/0/NB/IXT8MY2I9P69RS1JOB1GQC.uasset'
+[2025.04.09-17.19.07:693][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/2/P5/PBFXOO8PWL9GNAC7BCTT1Z
+[2025.04.09-17.19.07:693][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/PBFXOO8PWL9GNAC7BCTT1ZEA1BF82F4C1D81BBAC4190AFBE349DBE.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/2/P5/PBFXOO8PWL9GNAC7BCTT1Z.uasset'
+[2025.04.09-17.19.07:705][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/E/ZY/P73GRDP6XYW65RVIRKM94P
+[2025.04.09-17.19.07:705][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/P73GRDP6XYW65RVIRKM94PA40BEC7A46ACEAAE14FBEDB52DEDAE3B.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/E/ZY/P73GRDP6XYW65RVIRKM94P.uasset'
+[2025.04.09-17.19.07:719][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/B/KI/8KWGRQOKCLAW4P2MZ6MF3H
+[2025.04.09-17.19.07:719][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/8KWGRQOKCLAW4P2MZ6MF3H6D05B7B942BBA7964C86B5B5E97641CA.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/B/KI/8KWGRQOKCLAW4P2MZ6MF3H.uasset'
+[2025.04.09-17.19.07:732][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/4/FS/OVLB35DF26BT1M2C2OAB6E
+[2025.04.09-17.19.07:732][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/OVLB35DF26BT1M2C2OAB6EF11EE72B4BA11B69A58EB88460199D15.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/4/FS/OVLB35DF26BT1M2C2OAB6E.uasset'
+[2025.04.09-17.19.07:744][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/9/P7/CUZROGV65Y6IT264N04XCQ
+[2025.04.09-17.19.07:744][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/CUZROGV65Y6IT264N04XCQFFBB7FD74AF3DA30B3125C87D173F7BC.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/9/P7/CUZROGV65Y6IT264N04XCQ.uasset'
+[2025.04.09-17.19.07:756][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/C/WM/F5QUX5BMZO0Q8CS6XTFJSS
+[2025.04.09-17.19.07:756][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/F5QUX5BMZO0Q8CS6XTFJSS1A96F0E742DEF6C61CA2A18933BDA647.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/C/WM/F5QUX5BMZO0Q8CS6XTFJSS.uasset'
+[2025.04.09-17.19.07:769][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/2/ER/3S9RKU66Y2AN1HZPT0SVFE
+[2025.04.09-17.19.07:769][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/3S9RKU66Y2AN1HZPT0SVFE975B109F4C29AA898A35BB81FD432A85.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/2/ER/3S9RKU66Y2AN1HZPT0SVFE.uasset'
+[2025.04.09-17.19.07:784][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/9/T4/95BB2INJ79D2BZC4I59UZK
+[2025.04.09-17.19.07:784][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/95BB2INJ79D2BZC4I59UZK83D5171842C0EA6A8D3C8BBB2BE5FA8C.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/9/T4/95BB2INJ79D2BZC4I59UZK.uasset'
+[2025.04.09-17.19.07:798][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/C/17/6I55WHFMCMA19OHZR1L7H7
+[2025.04.09-17.19.07:798][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/6I55WHFMCMA19OHZR1L7H757516B6F467287B9B7EA418540EAC96D.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/C/17/6I55WHFMCMA19OHZR1L7H7.uasset'
+[2025.04.09-17.19.07:811][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/5/B5/XKI31IXATSMD9EA536XTZ8
+[2025.04.09-17.19.07:811][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/XKI31IXATSMD9EA536XTZ8918DFCE84FB94E10EE869FB9523C195C.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/5/B5/XKI31IXATSMD9EA536XTZ8.uasset'
+[2025.04.09-17.19.07:825][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/E/DX/P1Q5KBEZNB3N7W2488TK6U
+[2025.04.09-17.19.07:825][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/P1Q5KBEZNB3N7W2488TK6U7A3F21DF45E533E8B4A1C3819C20AABB.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/E/DX/P1Q5KBEZNB3N7W2488TK6U.uasset'
+[2025.04.09-17.19.07:839][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/9/WI/H7UYTFOBTIT9FC40CMNU04
+[2025.04.09-17.19.07:839][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/H7UYTFOBTIT9FC40CMNU0497A1900A41CBF1E2D8FB6BB30418C873.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/9/WI/H7UYTFOBTIT9FC40CMNU04.uasset'
+[2025.04.09-17.19.07:852][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/9/TT/8AGTCL1J1HW7NFG8XWVLVO
+[2025.04.09-17.19.07:852][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/8AGTCL1J1HW7NFG8XWVLVO41B9B9DE454EF997A70BF79E13E762EE.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/9/TT/8AGTCL1J1HW7NFG8XWVLVO.uasset'
+[2025.04.09-17.19.07:865][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/E/6V/LWA7C1NNG86VTP5M2V0E54
+[2025.04.09-17.19.07:865][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/LWA7C1NNG86VTP5M2V0E5414932FDC4397E5D8EF73C087A24F5900.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/E/6V/LWA7C1NNG86VTP5M2V0E54.uasset'
+[2025.04.09-17.19.07:878][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/A/DJ/AVADYGSE27MBO01983I0PQ
+[2025.04.09-17.19.07:878][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/AVADYGSE27MBO01983I0PQA44461E74E66319BBDAEF2A140091F18.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/A/DJ/AVADYGSE27MBO01983I0PQ.uasset'
+[2025.04.09-17.19.07:891][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/9/7L/XHQ3FSHUWMAXBNX0UK4QOO
+[2025.04.09-17.19.07:892][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/XHQ3FSHUWMAXBNX0UK4QOOBA5EADA14BBDDD2CB7F71AB578525157.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/9/7L/XHQ3FSHUWMAXBNX0UK4QOO.uasset'
+[2025.04.09-17.19.07:904][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/B/IJ/PDN4UBUIZ2TIOP40PB0PNL
+[2025.04.09-17.19.07:904][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/PDN4UBUIZ2TIOP40PB0PNL6AA30B404638B1AD5228609E4AF91C20.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/B/IJ/PDN4UBUIZ2TIOP40PB0PNL.uasset'
+[2025.04.09-17.19.07:918][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/5/IZ/RRBAEGON7FVPZK9JLAUOXV
+[2025.04.09-17.19.07:918][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/RRBAEGON7FVPZK9JLAUOXV4B6A23B5461169EE3AA4ECAC0AB95BEC.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/5/IZ/RRBAEGON7FVPZK9JLAUOXV.uasset'
+[2025.04.09-17.19.07:931][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/6/EL/ME2JDQU1BW4O1OJDP83SFK
+[2025.04.09-17.19.07:931][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/ME2JDQU1BW4O1OJDP83SFK8AB6AEE44FA6CFB235DB9FA0FF496A48.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/6/EL/ME2JDQU1BW4O1OJDP83SFK.uasset'
+[2025.04.09-17.19.07:944][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/9/2N/I1HMS7G2V0SD3QO3F8N8ZX
+[2025.04.09-17.19.07:944][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/I1HMS7G2V0SD3QO3F8N8ZX31F7D92D4E88833ACA85BD9E787E8E79.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/9/2N/I1HMS7G2V0SD3QO3F8N8ZX.uasset'
+[2025.04.09-17.19.07:957][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/3/8V/41KVNCHQ46YRLRJGKH5WJ1
+[2025.04.09-17.19.07:958][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/41KVNCHQ46YRLRJGKH5WJ1BC1C6CA64CBC8887AB61C99909ABBA40.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/3/8V/41KVNCHQ46YRLRJGKH5WJ1.uasset'
+[2025.04.09-17.19.07:969][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/B/YS/NXZQERZXTW4GKV1HD3G0GM
+[2025.04.09-17.19.07:969][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/NXZQERZXTW4GKV1HD3G0GM435614A0416FF99F4F55F3B71C4FD044.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/B/YS/NXZQERZXTW4GKV1HD3G0GM.uasset'
+[2025.04.09-17.19.07:982][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/E/JC/D402SU0BKFFJLRIIPSNYFY
+[2025.04.09-17.19.07:982][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/D402SU0BKFFJLRIIPSNYFYFBF6B1AE4581BFFEC4FFE686BA424B6B.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/E/JC/D402SU0BKFFJLRIIPSNYFY.uasset'
+[2025.04.09-17.19.07:998][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/D/N3/HTZIL96VSJ5DWK6N8H0NFX
+[2025.04.09-17.19.07:998][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/HTZIL96VSJ5DWK6N8H0NFX47A9EDB64D3D3DB0F0E184B68CA8D545.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/D/N3/HTZIL96VSJ5DWK6N8H0NFX.uasset'
+[2025.04.09-17.19.08:011][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/C/V5/MN2830ZLJRLLV6J5MD3ERB
+[2025.04.09-17.19.08:011][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/MN2830ZLJRLLV6J5MD3ERB0BC450E44E33F5DF087A01923F7A5F9F.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/C/V5/MN2830ZLJRLLV6J5MD3ERB.uasset'
+[2025.04.09-17.19.08:024][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/3/L1/ON6U35HC1BM7ZHMJ5YM1BG
+[2025.04.09-17.19.08:024][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/ON6U35HC1BM7ZHMJ5YM1BGD151C427492A9F008A5D6CBB18C0841B.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/3/L1/ON6U35HC1BM7ZHMJ5YM1BG.uasset'
+[2025.04.09-17.19.08:038][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/7/TD/7CV9ML7L5TOYCQRUURXN5W
+[2025.04.09-17.19.08:038][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/7CV9ML7L5TOYCQRUURXN5W563572374EB1F62BD39246A8D089AD97.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/7/TD/7CV9ML7L5TOYCQRUURXN5W.uasset'
+[2025.04.09-17.19.08:051][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/7/S4/XIYNHT6WY1V482OA36Y744
+[2025.04.09-17.19.08:051][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/XIYNHT6WY1V482OA36Y7444192DCFD43E629207669FCA497929ED6.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/7/S4/XIYNHT6WY1V482OA36Y744.uasset'
+[2025.04.09-17.19.08:064][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/E/25/EWUFUG08W4Z7YVA2U54CB4
+[2025.04.09-17.19.08:064][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/EWUFUG08W4Z7YVA2U54CB43557ED7C46BC4DA3C86A34BBE891CF23.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/E/25/EWUFUG08W4Z7YVA2U54CB4.uasset'
+[2025.04.09-17.19.08:078][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/9/IF/YQECTHWVSE5Q1AJSC62YZ2
+[2025.04.09-17.19.08:078][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/YQECTHWVSE5Q1AJSC62YZ238B91B8141C5C81156EC5CACF866822D.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/9/IF/YQECTHWVSE5Q1AJSC62YZ2.uasset'
+[2025.04.09-17.19.08:091][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/1/UO/LGNK6XKOCG9L6ZPYA7SVAC
+[2025.04.09-17.19.08:091][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/LGNK6XKOCG9L6ZPYA7SVAC9AAC41A84722BF7C04878FA5D41FB431.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/1/UO/LGNK6XKOCG9L6ZPYA7SVAC.uasset'
+[2025.04.09-17.19.08:104][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/C/K8/X80U77I6TTAHHYW4SFWCCA
+[2025.04.09-17.19.08:104][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/X80U77I6TTAHHYW4SFWCCA58493DC24564D2DAFD47E393569A4A38.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/C/K8/X80U77I6TTAHHYW4SFWCCA.uasset'
+[2025.04.09-17.19.08:117][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/A/WP/MROQ3VZIHPWPYJYLBRSXLL
+[2025.04.09-17.19.08:117][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/MROQ3VZIHPWPYJYLBRSXLL76097E2947E1BEB2A0BE5EACB8898D0C.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/A/WP/MROQ3VZIHPWPYJYLBRSXLL.uasset'
+[2025.04.09-17.19.08:130][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/6/BD/BH8W4CU2UYSIM65UPADER8
+[2025.04.09-17.19.08:130][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/BH8W4CU2UYSIM65UPADER82982E4A543D80769DD8D369C60816FEF.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/6/BD/BH8W4CU2UYSIM65UPADER8.uasset'
+[2025.04.09-17.19.08:144][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/3/J4/M8TUWIKXFHOF0T86TTJ22V
+[2025.04.09-17.19.08:144][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/M8TUWIKXFHOF0T86TTJ22V08378AC441ECF990824B71B77DB25A01.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/3/J4/M8TUWIKXFHOF0T86TTJ22V.uasset'
+[2025.04.09-17.19.08:156][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/4/CA/V3N3EP7GZRDG4UA8FJFXHH
+[2025.04.09-17.19.08:156][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/V3N3EP7GZRDG4UA8FJFXHH4A539E5346CE7F864B5758A93B86F412.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/4/CA/V3N3EP7GZRDG4UA8FJFXHH.uasset'
+[2025.04.09-17.19.08:169][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/A/JZ/M47OKSPB64CBXS8WG0M66M
+[2025.04.09-17.19.08:169][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/M47OKSPB64CBXS8WG0M66MD018D2874618D690F89CAA8DE8A164E5.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/A/JZ/M47OKSPB64CBXS8WG0M66M.uasset'
+[2025.04.09-17.19.08:183][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/1/WZ/LMJ891ZR8NPS8H8QXGDZRF
+[2025.04.09-17.19.08:183][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/LMJ891ZR8NPS8H8QXGDZRF47FAA18F443FEB14A44780B279A2FA81.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/1/WZ/LMJ891ZR8NPS8H8QXGDZRF.uasset'
+[2025.04.09-17.19.08:197][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/0/03/V8AA5QQPNX2WVMNGVN2YNT
+[2025.04.09-17.19.08:198][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/V8AA5QQPNX2WVMNGVN2YNTB0F11C16482FEA8E864F75ACFBA2E97D.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/0/03/V8AA5QQPNX2WVMNGVN2YNT.uasset'
+[2025.04.09-17.19.08:210][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/F/3Q/VGZVZLIFSZB2BVHNQ02R4F
+[2025.04.09-17.19.08:210][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/VGZVZLIFSZB2BVHNQ02R4FA4E523754C6651497E8513AD9EC04F0F.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/F/3Q/VGZVZLIFSZB2BVHNQ02R4F.uasset'
+[2025.04.09-17.19.08:223][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/C/AA/5934MLKJFWO79GP8B4FTJV
+[2025.04.09-17.19.08:223][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/5934MLKJFWO79GP8B4FTJVC39EEC6348018F2D4B5C9F947C801405.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/C/AA/5934MLKJFWO79GP8B4FTJV.uasset'
+[2025.04.09-17.19.08:242][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/3/0C/18TLD2FGLQ5KZXLD1AAVK1
+[2025.04.09-17.19.08:242][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/18TLD2FGLQ5KZXLD1AAVK18DD958E8458AB4C9832D62993B5AF527.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/3/0C/18TLD2FGLQ5KZXLD1AAVK1.uasset'
+[2025.04.09-17.19.08:254][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/B/U2/PUIBLQQIUMGFWZDZ57GSDT
+[2025.04.09-17.19.08:254][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/PUIBLQQIUMGFWZDZ57GSDT82BF6A394ECA528B390427B06DC0CDFA.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/B/U2/PUIBLQQIUMGFWZDZ57GSDT.uasset'
+[2025.04.09-17.19.08:268][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/A/OJ/EHQA582QLZTX6K7IC33J2F
+[2025.04.09-17.19.08:268][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/EHQA582QLZTX6K7IC33J2F1BA6C5214E76B6522F859785ACD84E32.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/A/OJ/EHQA582QLZTX6K7IC33J2F.uasset'
+[2025.04.09-17.19.08:280][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/B/0E/1L1H4DQXSDISGB6MP2RNFK
+[2025.04.09-17.19.08:280][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/1L1H4DQXSDISGB6MP2RNFK258E58A04B195AAD80CF74918F64BD9B.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/B/0E/1L1H4DQXSDISGB6MP2RNFK.uasset'
+[2025.04.09-17.19.08:293][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/D/EU/48UAQUHOM4ALDQEZG2PIF7
+[2025.04.09-17.19.08:293][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/48UAQUHOM4ALDQEZG2PIF776D8D443485B8A31983C42AAA9A55238.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/D/EU/48UAQUHOM4ALDQEZG2PIF7.uasset'
+[2025.04.09-17.19.08:305][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/8/JH/RSHJGYGA2L9K1TBOIC6LS4
+[2025.04.09-17.19.08:305][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/RSHJGYGA2L9K1TBOIC6LS466A0844F4B157E9CE7D7929376492073.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/8/JH/RSHJGYGA2L9K1TBOIC6LS4.uasset'
+[2025.04.09-17.19.08:319][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/2/C5/1XJM83DKCFEFPV1R4LE73I
+[2025.04.09-17.19.08:319][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/1XJM83DKCFEFPV1R4LE73I3F40F6A3430E240A3B2F4491289D7957.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/2/C5/1XJM83DKCFEFPV1R4LE73I.uasset'
+[2025.04.09-17.19.08:332][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/9/IN/08DRZ3746XDJ1JJV52R5NO
+[2025.04.09-17.19.08:332][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/08DRZ3746XDJ1JJV52R5NOC8EC51CC4D88708A74D9D0ABB5F7463A.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/9/IN/08DRZ3746XDJ1JJV52R5NO.uasset'
+[2025.04.09-17.19.08:346][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/D/HA/RUQVN99PQUQ3V0M0LDJ0BM
+[2025.04.09-17.19.08:346][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/RUQVN99PQUQ3V0M0LDJ0BMF66CC0184CF2AFBA968FCCA5A223F2E7.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/D/HA/RUQVN99PQUQ3V0M0LDJ0BM.uasset'
+[2025.04.09-17.19.08:359][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/E/D3/VRVJ4YO8OX9FEF74GESVOD
+[2025.04.09-17.19.08:359][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/VRVJ4YO8OX9FEF74GESVODF6F8FB8046A57B32C67189928CD549B8.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/E/D3/VRVJ4YO8OX9FEF74GESVOD.uasset'
+[2025.04.09-17.19.08:371][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/0/VN/S9XBAX9AYLGORARNGDNVO1
+[2025.04.09-17.19.08:371][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/S9XBAX9AYLGORARNGDNVO1AAB7EA7A4F80E1E9CABCD59D257E62D3.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/0/VN/S9XBAX9AYLGORARNGDNVO1.uasset'
+[2025.04.09-17.19.08:386][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/2/QG/FNQEAMU864CWNWP6LLS2DG
+[2025.04.09-17.19.08:386][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/FNQEAMU864CWNWP6LLS2DG7E006B774102EA4F1DDF78BFD0884A7D.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/2/QG/FNQEAMU864CWNWP6LLS2DG.uasset'
+[2025.04.09-17.19.08:402][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/3/DK/Z7GLG0MBO2J004LI247XMN
+[2025.04.09-17.19.08:402][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/Z7GLG0MBO2J004LI247XMN579B94D74AFCBDE2EDC5F1A0748DA667.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/3/DK/Z7GLG0MBO2J004LI247XMN.uasset'
+[2025.04.09-17.19.08:415][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/D/92/XJ5NFKC00XG5ED9KGGXI8K
+[2025.04.09-17.19.08:415][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/XJ5NFKC00XG5ED9KGGXI8K4C24B23E4A9F3FC1A2D827B630BB4516.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/D/92/XJ5NFKC00XG5ED9KGGXI8K.uasset'
+[2025.04.09-17.19.08:429][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/8/P3/WKS5MW8N1FOHVQ9XFY7RWJ
+[2025.04.09-17.19.08:429][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/WKS5MW8N1FOHVQ9XFY7RWJ24E0ACB2467C48C759933AB48FA9D842.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/8/P3/WKS5MW8N1FOHVQ9XFY7RWJ.uasset'
+[2025.04.09-17.19.08:443][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/5/8H/0K7SDL7KTBT1605P2KLZQN
+[2025.04.09-17.19.08:443][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/0K7SDL7KTBT1605P2KLZQN2E9B61314A7AE457436652B78FACA27C.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/5/8H/0K7SDL7KTBT1605P2KLZQN.uasset'
+[2025.04.09-17.19.08:456][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/1/RB/041U3Z2YX4DYOUT92BRETT
+[2025.04.09-17.19.08:456][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/041U3Z2YX4DYOUT92BRETT7AF28C074475F41B3196388C133F201A.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/1/RB/041U3Z2YX4DYOUT92BRETT.uasset'
+[2025.04.09-17.19.08:469][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMap/C/OE/72SI0U825Y8TTNLPC80VCG
+[2025.04.09-17.19.08:469][545]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/72SI0U825Y8TTNLPC80VCG8481C72E4F1ACB4A939B4A8D8B3ACA54.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/C/OE/72SI0U825Y8TTNLPC80VCG.uasset'
+[2025.04.09-17.19.08:475][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.66 sec (total: 19.6 sec)
+[2025.04.09-17.19.08:485][545]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Levels/TestMap_HLOD0_Instancing
+/Game/__ExternalActors__/Levels/TestMap/0/6L/C6P3NNQ08SPJ2YF5CVFTNE
+/Game/__ExternalObjects__/Levels/TestMap/C/A4/SCT4I78LDNLJQFQS21VWJ7
+/Game/__ExternalObjects__/Levels/TestMap/E/18/PQ1UIUJHVM19NQMDOIPUXP
+/Game/__ExternalObjects__/Levels/TestMap/2/UH/KKYZSX9LQS8E55I09NTEMO
+/Game/__ExternalObjects__/Levels/TestMap/9/ZD/CLBRP61QX4DJ4JAA8GP6CR
+/Game/__ExternalObjects__/Levels/TestMap/5/UP/TSJBMXRJF7L6JVG8Q70BFX
+/Game/__ExternalObjects__/Levels/TestMap/2/91/8HDS8QXJITU35XHS692W3J
+/Game/__ExternalActors__/Levels/TestMap/C/02/32DY9OIN5DOSM9WS4JDZ8B
+/Game/__ExternalActors__/Levels/TestMap/4/9L/NG7SNRNPR2CJCG692NI4EJ
+/Game/__ExternalActors__/Levels/TestMap/0/YX/ZE5E0NVM5INICOJ7LCE2IY
+/Game/__ExternalActors__/Levels/TestMap/B/S3/5LJ0BXF1330LIP1Q5I2COQ
+/Game/__ExternalActors__/Levels/TestMap/E/KE/GJ5CS6YD057NLWVU54UXZZ
+/Game/__ExternalActors__/Levels/TestMap/8/RI/FH2H6O4OVPGJIFA258JAMZ
+/Game/__ExternalActors__/Levels/TestMap/5/VL/LNJ83BOREKC0HVH2J5N1JJ
+/Game/__ExternalActors__/Levels/TestMap/1/JE/4UVF057Y3IXDF9YSW89E9D
+/Game/__ExternalActors__/Levels/TestMap/5/T7/680H4FKWIOZE41ZSK0SM4K
+/Game/__ExternalActors__/Levels/TestMap/C/NE/P75HIL3SPNU2WY5ZDHQIOG
+/Game/__ExternalActors__/Levels/TestMap/0/UI/7PWS6OHDIM5IMMNXSBTGYC
+/Game/__ExternalActors__/Levels/TestMap/D/QQ/68HGOBP3R0XE4VC69X1AJL
+/Game/__ExternalActors__/Levels/TestMap/E/XW/S10OQPKSTI3LNLGSUVWIEC
+/Game/__ExternalActors__/Levels/TestMap/A/G9/XNVERRRJ6AST5ZL9DVDVN2
+/Game/__ExternalActors__/Levels/TestMap/2/6F/Z80K2JCXF7CYCHT6GYD7TX
+/Game/__ExternalActors__/Levels/TestMap/9/AT/4CV6LRXRLCTCP890KT47WH
+/Game/__ExternalActors__/Levels/TestMap/9/R5/XGCQ9N3AQ4L1QC9R0G5YN7
+/Game/__ExternalActors__/Levels/TestMap/0/3E/5NX4ARRUCHW8X2EV7E4I3A
+/Game/__ExternalActors__/Levels/TestMap/5/5L/PTS5WTZRA5QZ6D6NOZ559D
+/Game/__ExternalActors__/Levels/TestMap/9/AV/GZLNR8H47BB6OHSXGQVMQU
+/Game/__ExternalActors__/Levels/TestMap/3/6A/Q3DOZIHAMOV5MVHSHAVF99
+/Game/__ExternalActors__/Levels/TestMap/8/AO/DSX6XEX99O2FDXYAOXG6TW
+/Game/__ExternalActors__/Levels/TestMap/A/0T/C105SX79LRP4KBI52ZKX2P
+/Game/__ExternalActors__/Levels/TestMap/B/6R/X46D8RUWJIB93JEZ2ZU1WP
+/Game/__ExternalActors__/Levels/TestMap/9/3K/NV1QMBA0O55SKVI7PTUHFS
+/Game/__ExternalActors__/Levels/TestMap/9/38/CCRQZHDV5V247S44JMQN79
+/Game/__ExternalActors__/Levels/TestMap/B/K7/3CWIQTCNP317UYPZI30KRR
+/Game/__ExternalActors__/Levels/TestMap/1/X4/CLPII0042UULKVU7840LE9
+/Game/__ExternalActors__/Levels/TestMap/C/31/MDDF9HCPEW5T5Z3Q8DB5VW
+/Game/__ExternalActors__/Levels/TestMap/3/64/Z6L6GXNFZQCBIQF2RXIZ44
+/Game/__ExternalActors__/Levels/TestMap/2/Q1/3WXYGUI8E1WV250BRW93IJ
+/Game/__ExternalActors__/Levels/TestMap/A/AM/XSNT26ZIV9GOYF63C3B9LO
+/Game/__ExternalActors__/Levels/TestMap/B/BX/SEQFWLH9EG4RLY3IWWMRXU
+/Game/__ExternalActors__/Levels/TestMap/B/3J/Y8MYCDWOR3T79WV0KW2HE7
+/Game/__ExternalActors__/Levels/TestMap/8/87/JY68VMKEV0HE36QCVRBP2Y
+/Game/__ExternalActors__/Levels/TestMap/3/YC/CPY8B9YJRAG6TMSQOYKH04
+/Game/__ExternalActors__/Levels/TestMap/3/FO/J5JWT6LM74SVDRT3XDDUJ6
+/Game/__ExternalActors__/Levels/TestMap/5/WK/MD30A7TJYCEHEHZQJZ0301
+/Game/__ExternalActors__/Levels/TestMap/A/CQ/6EICMRQEL87EOHYT4QF8SV
+/Game/__ExternalActors__/Levels/TestMap/2/CU/IOBYE1BMULN6LQEUO1IF47
+/Game/__ExternalActors__/Levels/TestMap/2/ZZ/KU146SX8E6OS1LWR4Q79YF
+/Game/__ExternalActors__/Levels/TestMap/9/CL/58NC29RXBX2SNAIG7XDC73
+/Game/__ExternalActors__/Levels/TestMap/D/1G/W5YTH3QYCWZX0CD9KWDEME
+/Game/__ExternalActors__/Levels/TestMap/C/ED/S8I5280ZXOFGGU12E4HXIF
+/Game/__ExternalActors__/Levels/TestMap/1/W1/KK8YMZAK9PT5X7QF857TNM
+/Game/__ExternalActors__/Levels/TestMap/E/P9/RB200FOSFX9AYTB7I6DMHX
+/Game/__ExternalActors__/Levels/TestMap/C/NU/5RBP3BY6E81NKL2548RASB
+/Game/__ExternalActors__/Levels/TestMap/9/S6/TMS83WOWNBGKLDS66GF0X7
+/Game/__ExternalActors__/Levels/TestMap/3/BQ/C7SIGZ0UDUULI302IRHQA9
+/Game/__ExternalActors__/Levels/TestMap/1/IC/ON47WMZKGER24LGUH32MDP
+/Game/__ExternalActors__/Levels/TestMap/8/CO/J4UIV17MRB28SELE3GLR2Q
+/Game/__ExternalActors__/Levels/TestMap/6/5X/X2H5PZIOWCJU1SZWFQ7WSA
+/Game/__ExternalActors__/Levels/TestMap/9/6D/9ZUDEOH9241Z1HLISLYTPC
+/Game/__ExternalActors__/Levels/TestMap/6/5H/C0PVMZCID4VRYZWV7KBLHP
+/Game/__ExternalActors__/Levels/TestMap/0/96/P1LPAP3TJ83M017RNVEX0M
+/Game/__ExternalActors__/Levels/TestMap/B/GJ/SCK8NT1WVWQ3LTHZ6GEG1Y
+/Game/__ExternalActors__/Levels/TestMap/7/J3/UY5XO92CF8RG4QJ2I4LBPS
+/Game/__ExternalActors__/Levels/TestMap/1/45/ZA9WQA50QRMKFALWFIM5XH
+/Game/__ExternalActors__/Levels/TestMap/7/E2/DQXNUJ80P1FGP3QDVCF3VK
+/Game/__ExternalActors__/Levels/TestMap/3/JQ/6JVOF6KHHYEN1A48A1VWHT
+/Game/__ExternalActors__/Levels/TestMap/B/8P/JYDHF504QJ7ZK6X2D5FKJT
+/Game/__ExternalActors__/Levels/TestMap/5/3O/Y5VN84KWLM6MFV7B66UIWA
+/Game/__ExternalActors__/Levels/TestMap/6/U4/DIU8MJCICT5R35ZA2GX2FQ
+/Game/__ExternalActors__/Levels/TestMap/4/IU/02QZF4QPFH98Y41SNEKDDP
+/Game/__ExternalActors__/Levels/TestMap/D/GO/V58URJLCTKGHPIGNSYU6XU
+/Game/__ExternalActors__/Levels/TestMap/4/Y7/J1HV1X23YWQTZ8IXH8NPIV
+/Game/__ExternalActors__/Levels/TestMap/4/U0/XU8IKGFUBXW44VRZRTQ43A
+/Game/__ExternalActors__/Levels/TestMap/C/S1/ZQJI4XKIAKY18T13SQH8E2
+/Game/__ExternalActors__/Levels/TestMap/2/K7/Q89DZ51WODK4B44TNTA4V4
+/Game/__ExternalActors__/Levels/TestMap/0/2G/JFM6BTSAKKJGOLG3XG18X5
+/Game/__ExternalActors__/Levels/TestMap/7/0X/2JUO0C5H988241KJ38UVAD
+/Game/__ExternalActors__/Levels/TestMap/A/AW/FAMC9WE687F9GFI9QK0SD8
+/Game/__ExternalActors__/Levels/TestMap/E/PB/AW68ZAC4QC82JZQN61LP2Q
+/Game/__ExternalActors__/Levels/TestMap/5/PQ/DQ1YKVHJ1ZVP4JMYGODEPM
+/Game/__ExternalActors__/Levels/TestMap/D/02/XSAKJSYBXTTDI6SAXOLV95
+/Game/__ExternalActors__/Levels/TestMap/2/AJ/HUGWKP7P1TIM6P2ZQNVEHY
+/Game/__ExternalActors__/Levels/TestMap/7/GQ/5K3IOZ6Z2MF5MGGK1WVYUE
+/Game/__ExternalActors__/Levels/TestMap/0/NB/IXT8MY2I9P69RS1JOB1GQC
+/Game/__ExternalActors__/Levels/TestMap/2/P5/PBFXOO8PWL9GNAC7BCTT1Z
+/Game/__ExternalActors__/Levels/TestMap/E/ZY/P73GRDP6XYW65RVIRKM94P
+/Game/__ExternalActors__/Levels/TestMap/B/KI/8KWGRQOKCLAW4P2MZ6MF3H
+/Game/__ExternalActors__/Levels/TestMap/4/FS/OVLB35DF26BT1M2C2OAB6E
+/Game/__ExternalActors__/Levels/TestMap/9/P7/CUZROGV65Y6IT264N04XCQ
+/Game/__ExternalActors__/Levels/TestMap/C/WM/F5QUX5BMZO0Q8CS6XTFJSS
+/Game/__ExternalActors__/Levels/TestMap/2/ER/3S9RKU66Y2AN1HZPT0SVFE
+/Game/__ExternalActors__/Levels/TestMap/9/T4/95BB2INJ79D2BZC4I59UZK
+/Game/__ExternalActors__/Levels/TestMap/C/17/6I55WHFMCMA19OHZR1L7H7
+/Game/__ExternalActors__/Levels/TestMap/5/B5/XKI31IXATSMD9EA536XTZ8
+/Game/__ExternalActors__/Levels/TestMap/E/DX/P1Q5KBEZNB3N7W2488TK6U
+/Game/__ExternalActors__/Levels/TestMap/9/WI/H7UYTFOBTIT9FC40CMNU04
+/Game/__ExternalActors__/Levels/TestMap/9/TT/8AGTCL1J1HW7NFG8XWVLVO
+/Game/__ExternalActors__/Levels/TestMap/E/6V/LWA7C1NNG86VTP5M2V0E54
+/Game/__ExternalActors__/Levels/TestMap/A/DJ/AVADYGSE27MBO01983I0PQ
+/Game/__ExternalActors__/Levels/TestMap/9/7L/XHQ3FSHUWMAXBNX0UK4QOO
+/Game/__ExternalActors__/Levels/TestMap/B/IJ/PDN4UBUIZ2TIOP40PB0PNL
+/Game/__ExternalActors__/Levels/TestMap/5/IZ/RRBAEGON7FVPZK9JLAUOXV
+/Game/__ExternalActors__/Levels/TestMap/6/EL/ME2JDQU1BW4O1OJDP83SFK
+/Game/__ExternalActors__/Levels/TestMap/9/2N/I1HMS7G2V0SD3QO3F8N8ZX
+/Game/__ExternalActors__/Levels/TestMap/3/8V/41KVNCHQ46YRLRJGKH5WJ1
+/Game/__ExternalActors__/Levels/TestMap/B/YS/NXZQERZXTW4GKV1HD3G0GM
+/Game/__ExternalActors__/Levels/TestMap/E/JC/D402SU0BKFFJLRIIPSNYFY
+/Game/__ExternalActors__/Levels/TestMap/D/N3/HTZIL96VSJ5DWK6N8H0NFX
+/Game/__ExternalActors__/Levels/TestMap/C/V5/MN2830ZLJRLLV6J5MD3ERB
+/Game/__ExternalActors__/Levels/TestMap/3/L1/ON6U35HC1BM7ZHMJ5YM1BG
+/Game/__ExternalActors__/Levels/TestMap/7/TD/7CV9ML7L5TOYCQRUURXN5W
+/Game/__ExternalActors__/Levels/TestMap/7/S4/XIYNHT6WY1V482OA36Y744
+/Game/__ExternalActors__/Levels/TestMap/E/25/EWUFUG08W4Z7YVA2U54CB4
+/Game/__ExternalActors__/Levels/TestMap/9/IF/YQECTHWVSE5Q1AJSC62YZ2
+/Game/__ExternalActors__/Levels/TestMap/1/UO/LGNK6XKOCG9L6ZPYA7SVAC
+/Game/__ExternalActors__/Levels/TestMap/C/K8/X80U77I6TTAHHYW4SFWCCA
+/Game/__ExternalActors__/Levels/TestMap/A/WP/MROQ3VZIHPWPYJYLBRSXLL
+/Game/__ExternalActors__/Levels/TestMap/6/BD/BH8W4CU2UYSIM65UPADER8
+/Game/__ExternalActors__/Levels/TestMap/3/J4/M8TUWIKXFHOF0T86TTJ22V
+/Game/__ExternalActors__/Levels/TestMap/4/CA/V3N3EP7GZRDG4UA8FJFXHH
+/Game/__ExternalActors__/Levels/TestMap/A/JZ/M47OKSPB64CBXS8WG0M66M
+/Game/__ExternalActors__/Levels/TestMap/1/WZ/LMJ891ZR8NPS8H8QXGDZRF
+/Game/__ExternalActors__/Levels/TestMap/0/03/V8AA5QQPNX2WVMNGVN2YNT
+/Game/__ExternalActors__/Levels/TestMap/F/3Q/VGZVZLIFSZB2BVHNQ02R4F
+/Game/__ExternalActors__/Levels/TestMap/C/AA/5934MLKJFWO79GP8B4FTJV
+/Game/__ExternalActors__/Levels/TestMap/3/0C/18TLD2FGLQ5KZXLD1AAVK1
+/Game/__ExternalActors__/Levels/TestMap/B/U2/PUIBLQQIUMGFWZDZ57GSDT
+/Game/__ExternalActors__/Levels/TestMap/A/OJ/EHQA582QLZTX6K7IC33J2F
+/Game/__ExternalActors__/Levels/TestMap/B/0E/1L1H4DQXSDISGB6MP2RNFK
+/Game/__ExternalActors__/Levels/TestMap/D/EU/48UAQUHOM4ALDQEZG2PIF7
+/Game/__ExternalActors__/Levels/TestMap/8/JH/RSHJGYGA2L9K1TBOIC6LS4
+/Game/__ExternalActors__/Levels/TestMap/2/C5/1XJM83DKCFEFPV1R4LE73I
+/Game/__ExternalActors__/Levels/TestMap/9/IN/08DRZ3746XDJ1JJV52R5NO
+/Game/__ExternalActors__/Levels/TestMap/D/HA/RUQVN99PQUQ3V0M0LDJ0BM
+/Game/__ExternalActors__/Levels/TestMap/E/D3/VRVJ4YO8OX9FEF74GESVOD
+/Game/__ExternalActors__/Levels/TestMap/0/VN/S9XBAX9AYLGORARNGDNVO1
+/Game/__ExternalActors__/Levels/TestMap/2/QG/FNQEAMU864CWNWP6LLS2DG
+/Game/__ExternalActors__/Levels/TestMap/3/DK/Z7GLG0MBO2J004LI247XMN
+/Game/__ExternalActors__/Levels/TestMap/D/92/XJ5NFKC00XG5ED9KGGXI8K
+/Game/__ExternalActors__/Levels/TestMap/8/P3/WKS5MW8N1FOHVQ9XFY7RWJ
+/Game/__ExternalActors__/Levels/TestMap/5/8H/0K7SDL7KTBT1605P2KLZQN
+/Game/__ExternalActors__/Levels/TestMap/1/RB/041U3Z2YX4DYOUT92BRETT
+/Game/__ExternalActors__/Levels/TestMap/C/OE/72SI0U825Y8TTNLPC80VCG
+[2025.04.09-17.19.08:515][545]LogFileHelpers: Saving map 'TestMap' took 3.102
+[2025.04.09-17.19.08:517][545]Cmd: MAP LOAD FILE="../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/Levels/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.04.09-17.19.08:567][545]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-17.19.08:571][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-17.19.08:571][545]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/TestMap.TestMap
+[2025.04.09-17.19.08:608][545]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.09-17.19.08:676][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.04.09-17.19.08:679][545]LogStreaming: Display: FlushAsyncLoading(686): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.09-17.19.08:687][545]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2025.04.09-17.19.08:687][545]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.04.09-17.19.08:694][545]LogWorldPartition: ULevel::OnLevelLoaded(TestMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.04.09-17.19.08:694][545]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.09-17.19.08:694][545]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/TestMap.TestMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.09-17.19.08:718][545]LogTexture: Display: Building textures: /Game/Levels/TestMap.TestMap:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927.MinimapTexture (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.04.09-17.19.08:958][545]LogWorldPartition: Display: WorldPartition initialize took 263.698 ms (total: 540.629 ms)
+[2025.04.09-17.19.09:464][545]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.04.09-17.19.09:489][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.04.09-17.19.09:496][545]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.04.09-17.19.09:498][545]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,225ms to complete.
+[2025.04.09-17.19.09:585][545]LogContentValidation: Display: Starting to validate 146 assets
+[2025.04.09-17.19.09:585][545]LogContentValidation: Enabled validators:
+[2025.04.09-17.19.09:585][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-17.19.09:585][545]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-17.19.09:585][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-17.19.09:585][545]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-17.19.09:585][545]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-17.19.09:585][545]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-17.19.09:585][545]AssetCheck: /Game/Levels/TestMap Validating asset
+[2025.04.09-17.19.09:585][545]AssetCheck: /Game/Levels/TestMap_HLOD0_Instancing Validating asset
+[2025.04.09-17.19.23:901][836]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12606.765625
+[2025.04.09-17.19.24:081][847]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-17.19.24:081][847]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12606.931641, Update Interval: 308.798492
+[2025.04.09-17.19.24:157][852]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.09-17.19.24:169][852]LogContentBundle: [TestMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.09-17.19.24:169][852]LogWorldPartition: Display: GenerateStreaming for 'TestMap' started...
+[2025.04.09-17.19.24:177][852]LogWorldPartition: Display: GenerateStreaming for 'TestMap' took 6.755 ms
+[2025.04.09-17.19.24:180][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.09-17.19.24:205][852]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.04.09-17.19.24:205][852]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.04.09-17.19.24:207][852]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2025.04.09-17.19.24:219][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012688s)
+[2025.04.09-17.19.24:219][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.012740s)
+[2025.04.09-17.19.24:241][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.04.09-17.19.24:243][852]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.04.09-17.19.24:244][852]LogWorldPartition: ULevel::OnLevelLoaded(TestMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.09-17.19.24:244][852]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.09-17.19.24:244][852]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_TestMap.TestMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.09-17.19.24:244][852]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.09-17.19.24:252][852]LogWorldPartition: Display: WorldPartition initialize took 8.327 ms (total: 548.956 ms)
+[2025.04.09-17.19.24:252][852]LogPlayLevel: PIE: World Init took: (0.010090s)
+[2025.04.09-17.19.24:253][852]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.04.09-17.19.24:253][852]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.09-17.19.24:253][852]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.09-17.19.24:253][852]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.09-17.19.24:255][852]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.09-17.19.24:255][852]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.09-17.19.24:255][852]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.09-17.19.24:255][852]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.09-17.19.24:255][852]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.09-17.19.24:256][852]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.09-17.19.24:256][852]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.09-17.19.24:256][852]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.09-17.19.24:261][852]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.09-17.19.24:307][852]LogAudioMixer: Display: Using Audio Hardware Device Altifalantes (Realtek(R) Audio)
+[2025.04.09-17.19.24:308][852]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.09-17.19.24:308][852]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.09-17.19.24:309][852]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.09-17.19.24:311][852]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.04.09-17.19.24:311][852]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.04.09-17.19.24:314][852]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.04.09-17.19.24:314][852]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.04.09-17.19.24:314][852]LogInit: FAudioDevice initialized with ID 2.
+[2025.04.09-17.19.24:314][852]LogAudio: Display: Audio Device (ID: 2) registered with world 'TestMap'.
+[2025.04.09-17.19.24:314][852]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.04.09-17.19.24:324][852]LogLoad: Game class is 'BP_LyraGameMode_C'
+[2025.04.09-17.19.24:325][852]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.04.09-18.19.24
+[2025.04.09-17.19.24:327][852]LogWorld: Bringing up level for play took: 0.002730
+[2025.04.09-17.19.24:330][852]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.04.09-17.19.24:348][852]LogStreaming: Display: FlushAsyncLoading(873,872,871,870,869,868,867,866,865,864,863,862,861,860,859,858,857,856,855,854,853,852,851,850,849,848,847,846,845,844,843,842,841,840,839,838,837,836,835,834,833,832,831,830): 44 QueuedPackages, 0 AsyncPackages
+[2025.04.09-17.19.24:559][852]PIE: Server logged in
+[2025.04.09-17.19.24:561][852]PIE: Play in editor total start time 0,393 seconds.
+[2025.04.09-17.19.34:699][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-17.19.34:699][448]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2025.04.09-17.19.34:709][448]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-17.19.34:710][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-17.19.34:710][448]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_TestMap.TestMap
+[2025.04.09-17.19.34:716][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.09-17.19.34:723][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-17.19.34:746][448]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.09-17.19.34:746][448]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.04.09-17.19.34:747][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.04.09-17.19.34:752][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.04.09-17.19.34:760][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-17.19.34:773][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.04.09-17.19.34:815][449]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.04.09-17.25.17:716][745]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12960.534180
+[2025.04.09-17.25.18:716][748]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-17.25.18:717][748]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12961.200195, Update Interval: 309.985046
+[2025.04.09-17.29.00:133][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.04.09-17.29.00:137][412]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.024
+[2025.04.09-17.31.17:416][824]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13320.187500
+[2025.04.09-17.31.18:416][827]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-17.31.18:416][827]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13320.854492, Update Interval: 358.243958
+[2025.04.09-17.38.11:126][ 65]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13733.839844
+[2025.04.09-17.38.12:126][ 68]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-17.38.12:126][ 68]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13734.506836, Update Interval: 354.389465
+[2025.04.09-17.39.00:857][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.09-17.39.00:859][214]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.020
+[2025.04.09-17.45.05:162][307]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14147.828125
+[2025.04.09-17.45.06:162][310]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-17.45.06:162][310]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14148.494141, Update Interval: 330.780975
+[2025.04.09-17.49.01:573][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.04.09-17.49.01:575][ 16]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.020
+[2025.04.09-18.42.46:201][221]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.04.09-18.42.46:231][221]LogHttp: Warning: 000008AD9DC07E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.09-18.42.46:231][221]LogHttp: Warning: 000008AD9DC07E00: libcurl info message cache 0 (Too old connection (3208 seconds idle), disconnect it)
+[2025.04.09-18.42.46:231][221]LogHttp: Warning: 000008AD9DC07E00: libcurl info message cache 1 (Connection 5 seems to be dead)
+[2025.04.09-18.42.46:231][221]LogHttp: Warning: 000008AD9DC07E00: libcurl info message cache 2 (Closing connection)
+[2025.04.09-18.42.46:231][221]LogHttp: Warning: 000008AD9DC07E00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.04.09-18.42.46:231][221]LogHttp: Warning: 000008AD9DC07E00: libcurl info message cache 4 (Send failure: Connection was reset)
+[2025.04.09-18.42.46:231][221]LogHttp: Warning: 000008AD9DC07E00: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2025.04.09-18.42.46:231][221]LogHttp: Warning: 000008AD9DC07E00: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.04.09-18.42.46:231][221]LogHttp: Warning: 000008AD9DC07E00: libcurl info message cache 7 (Closing connection)
+[2025.04.09-18.42.46:232][221]LogEOSSDK: Warning: LogHttp: 000008C1BBA7CC00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B850FF380-471E-6A61-3A5D-7BB6872A7A38%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-18.42.46:232][221]LogEOSSDK: Warning: LogHttp: 000008C1BBA7CC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.09-18.42.46:232][221]LogEOSSDK: Warning: LogHttp: 000008C1BBA7CC00: libcurl info message cache 0 (Too old connection (3156 seconds idle), disconnect it)
+[2025.04.09-18.42.46:232][221]LogEOSSDK: Warning: LogHttp: 000008C1BBA7CC00: libcurl info message cache 1 (Connection 11 seems to be dead)
+[2025.04.09-18.42.46:232][221]LogEOSSDK: Warning: LogHttp: 000008C1BBA7CC00: libcurl info message cache 2 (Closing connection)
+[2025.04.09-18.42.46:232][221]LogEOSSDK: Warning: LogHttp: 000008C1BBA7CC00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.04.09-18.42.46:232][221]LogEOSSDK: Warning: LogHttp: 000008C1BBA7CC00: libcurl info message cache 4 (Send failure: Connection was reset)
+[2025.04.09-18.42.46:232][221]LogEOSSDK: Warning: LogHttp: 000008C1BBA7CC00: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2025.04.09-18.42.46:232][221]LogEOSSDK: Warning: LogHttp: 000008C1BBA7CC00: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.04.09-18.42.46:232][221]LogEOSSDK: Warning: LogHttp: 000008C1BBA7CC00: libcurl info message cache 7 (Closing connection)
+[2025.04.09-18.42.46:305][222]LogEOSSDK: Warning: LogHttp: 000008C1BBA76C00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-18.42.46:306][223]LogEOSSDK: Warning: LogHttp: 000008C1BBA76C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.09-18.42.46:306][223]LogEOSSDK: Warning: LogHttp: 000008C1BBA76C00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.04.09-18.42.46:306][223]LogEOSSDK: Warning: LogHttp: 000008C1BBA76C00: libcurl info message cache 1 (Closing connection)
+[2025.04.09-18.42.46:306][223]LogEOSSDK: Warning: LogHttp: 000008C1BBA75A00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0E8C3A1B41CCA75E8D36E8B1DE718717, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-18.42.46:306][223]LogEOSSDK: Warning: LogHttp: 000008C1BBA75A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.09-18.42.46:306][223]LogEOSSDK: Warning: LogHttp: 000008C1BBA75A00: libcurl info message cache 0 (Found bundle for host: 0x8adb5880930 [serially])
+[2025.04.09-18.42.46:306][223]LogEOSSDK: Warning: LogHttp: 000008C1BBA75A00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.04.09-18.42.46:306][223]LogEOSSDK: Warning: LogHttp: 000008C1BBA75A00: libcurl info message cache 2 (Closing connection)
+[2025.04.09-18.42.46:306][223]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B850FF380-471E-6A61-3A5D-7BB6872A7A38%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.04.09-18.42.46:307][223]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.04.09-18.42.46:307][223]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0E8C3A1B41CCA75E8D36E8B1DE718717
+[2025.04.09-18.42.46:676][223]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: a06...3dc
+[2025.04.09-18.42.46:676][224]LogEOSSDK: Warning: LogHttp: 000008C1BBA71800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-18.42.46:676][224]LogEOSSDK: Warning: LogHttp: 000008C1BBA71800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.09-18.42.46:676][224]LogEOSSDK: Warning: LogHttp: 000008C1BBA71800: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.04.09-18.42.46:676][224]LogEOSSDK: Warning: LogHttp: 000008C1BBA71800: libcurl info message cache 1 (Closing connection)
+[2025.04.09-18.42.46:676][224]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.04.09-18.42.47:813][226]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.04.09-18.42.47:813][226]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0E8C3A1B41CCA75E8D36E8B1DE718717
+[2025.04.09-18.42.47:813][226]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.04.09-18.42.48:054][227]LogEOSSDK: Warning: LogHttp: 000008C1BBA76C00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-18.42.48:054][227]LogEOSSDK: Warning: LogHttp: 000008C1BBA76C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.09-18.42.48:054][227]LogEOSSDK: Warning: LogHttp: 000008C1BBA76C00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.04.09-18.42.48:054][227]LogEOSSDK: Warning: LogHttp: 000008C1BBA76C00: libcurl info message cache 3 (Closing connection)
+[2025.04.09-18.42.48:054][227]LogEOSSDK: Warning: LogHttp: 000008C1BBA71800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-18.42.48:054][227]LogEOSSDK: Warning: LogHttp: 000008C1BBA71800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.09-18.42.48:054][227]LogEOSSDK: Warning: LogHttp: 000008C1BBA71800: libcurl info message cache 2 (Found bundle for host: 0x8adb5880180 [serially])
+[2025.04.09-18.42.48:054][227]LogEOSSDK: Warning: LogHttp: 000008C1BBA71800: libcurl info message cache 3 (Could not resolve host: api.epicgames.dev)
+[2025.04.09-18.42.48:054][227]LogEOSSDK: Warning: LogHttp: 000008C1BBA71800: libcurl info message cache 4 (Closing connection)
+[2025.04.09-18.42.48:054][227]LogEOSSDK: Warning: LogHttp: 000008C1BBA75A00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0E8C3A1B41CCA75E8D36E8B1DE718717, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-18.42.48:054][227]LogEOSSDK: Warning: LogHttp: 000008C1BBA75A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.09-18.42.48:054][227]LogEOSSDK: Warning: LogHttp: 000008C1BBA75A00: libcurl info message cache 3 (Found bundle for host: 0x8adb5880180 [serially])
+[2025.04.09-18.42.48:054][227]LogEOSSDK: Warning: LogHttp: 000008C1BBA75A00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.04.09-18.42.48:054][227]LogEOSSDK: Warning: LogHttp: 000008C1BBA75A00: libcurl info message cache 5 (Closing connection)
+[2025.04.09-18.42.48:054][227]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.04.09-18.42.48:054][227]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0E8C3A1B41CCA75E8D36E8B1DE718717
+[2025.04.09-18.42.48:054][227]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.04.09-18.42.48:220][227]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:60434'.
+[2025.04.09-18.42.48:227][227]LogUdpMessaging: Display: Added local interface '172.18.208.1' to multicast group '230.0.0.1:6666'
+[2025.04.09-18.42.48:345][228]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.04.09-18.42.48:379][228]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: a06...3dc
+[2025.04.09-18.42.49:349][231]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.04.09-18.42.49:349][231]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0E8C3A1B41CCA75E8D36E8B1DE718717
+[2025.04.09-18.42.49:349][231]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.04.09-18.42.50:144][233]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:57456'.
+[2025.04.09-18.42.50:148][233]LogUdpMessaging: Display: Added local interface '172.18.208.1' to multicast group '230.0.0.1:6666'
+[2025.04.09-18.42.50:346][234]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.04.09-18.42.50:686][236]LogEOSSDK: Warning: LogHttp: 000008C1BBA76C00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-18.42.50:686][236]LogEOSSDK: Warning: LogHttp: 000008C1BBA76C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.09-18.42.50:686][236]LogEOSSDK: Warning: LogHttp: 000008C1BBA76C00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.04.09-18.42.50:686][236]LogEOSSDK: Warning: LogHttp: 000008C1BBA76C00: libcurl info message cache 5 (Closing connection)
+[2025.04.09-18.42.50:688][236]LogEOSSDK: Warning: LogHttp: 000008C1BBA71800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-18.42.50:688][236]LogEOSSDK: Warning: LogHttp: 000008C1BBA71800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.09-18.42.50:688][236]LogEOSSDK: Warning: LogHttp: 000008C1BBA71800: libcurl info message cache 5 (Found bundle for host: 0x8adb5880810 [serially])
+[2025.04.09-18.42.50:688][236]LogEOSSDK: Warning: LogHttp: 000008C1BBA71800: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.04.09-18.42.50:688][236]LogEOSSDK: Warning: LogHttp: 000008C1BBA71800: libcurl info message cache 7 (Closing connection)
+[2025.04.09-18.42.50:688][236]LogEOSSDK: Warning: LogHttp: 000008C1BBA75A00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0E8C3A1B41CCA75E8D36E8B1DE718717, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-18.42.50:688][236]LogEOSSDK: Warning: LogHttp: 000008C1BBA75A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.09-18.42.50:688][236]LogEOSSDK: Warning: LogHttp: 000008C1BBA75A00: libcurl info message cache 6 (Found bundle for host: 0x8adb5880810 [serially])
+[2025.04.09-18.42.50:688][236]LogEOSSDK: Warning: LogHttp: 000008C1BBA75A00: libcurl info message cache 7 (Could not resolve host: api.epicgames.dev)
+[2025.04.09-18.42.50:688][236]LogEOSSDK: Warning: LogHttp: 000008C1BBA75A00: libcurl info message cache 8 (Closing connection)
+[2025.04.09-18.42.50:688][236]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.04.09-18.42.50:688][236]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0E8C3A1B41CCA75E8D36E8B1DE718717
+[2025.04.09-18.42.50:688][236]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.04.09-18.42.50:688][236]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.04.09-18.42.51:023][236]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: a06...3dc
+[2025.04.09-18.42.52:019][239]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.04.09-18.42.52:021][239]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.04.09-18.42.52:661][239]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:51567'.
+[2025.04.09-18.42.52:667][239]LogUdpMessaging: Display: Added local interface '172.18.208.1' to multicast group '230.0.0.1:6666'
+[2025.04.09-18.42.52:667][239]LogUdpMessaging: Display: Added local interface '192.168.1.67' to multicast group '230.0.0.1:6666'
+[2025.04.09-18.42.52:692][240]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.04.09-18.42.52:692][240]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.04.09-18.42.56:097][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.04.09-18.42.56:099][250]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.026
+[2025.04.09-18.43.23:024][331]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17645.652344
+[2025.04.09-18.43.24:025][334]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-18.43.24:025][334]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17646.320312, Update Interval: 349.515076
+[2025.04.09-18.46.19:017][859]LogDerivedDataCache: C:/Users/simao/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.09-18.50.09:394][550]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18052.369141
+[2025.04.09-18.50.10:393][553]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-18.50.10:393][553]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18053.037109, Update Interval: 302.340149
+[2025.04.09-18.52.56:812][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.09-18.52.56:814][ 52]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.025
+[2025.04.09-18.56.03:094][611]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18406.423828
+[2025.04.09-18.56.04:095][614]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-18.56.04:095][614]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18407.089844, Update Interval: 306.017029
+[2025.04.09-18.58.31:108][ 55]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: a06...3dc
+[2025.04.09-18.58.31:108][ 55]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.9 RefreshExpires: 1.552e+07
+[2025.04.09-18.58.32:108][ 58]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: a06...3dc Access[Expires: 2025.04.09-20.58.31 Remaining: 7200.37] Refresh[Expires: 2025-10-06T10:37:46.468Z Remaining: 15521955.47] State: Valid
+[2025.04.09-19.01.47:457][644]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18751.132812
+[2025.04.09-19.01.48:456][647]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-19.01.48:456][647]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18751.798828, Update Interval: 349.256866
+[2025.04.09-19.02.57:185][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.04.09-19.02.57:186][853]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.024
+[2025.04.09-19.08.20:157][822]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19144.222656
+[2025.04.09-19.08.21:157][825]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-19.08.21:157][825]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19144.890625, Update Interval: 315.654175
+[2025.04.09-19.12.57:909][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.04.09-19.12.57:912][655]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.024
+[2025.04.09-19.14.08:184][866]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19492.601562
+[2025.04.09-19.14.09:185][869]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-19.14.09:185][869]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19493.267578, Update Interval: 334.670258
+[2025.04.09-19.20.37:551][ 34]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19882.339844
+[2025.04.09-19.20.38:551][ 37]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-19.20.38:551][ 37]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19883.007812, Update Interval: 315.430756
+[2025.04.09-19.22.58:616][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.04.09-19.22.58:618][457]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.023
+[2025.04.09-19.26.53:578][162]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20258.722656
+[2025.04.09-19.26.54:579][165]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-19.26.54:579][165]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20259.390625, Update Interval: 320.078125
+[2025.04.09-19.32.53:231][240]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20618.722656
+[2025.04.09-19.32.54:230][243]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-19.32.54:230][243]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20619.386719, Update Interval: 322.577606
+[2025.04.09-19.32.59:292][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.04.09-19.32.59:294][258]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.022
+[2025.04.09-20.05.40:341][291]LogHttp: Warning: 000008C1E9083F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.09-20.05.40:341][291]LogHttp: Warning: 000008C1E9083F00: libcurl info message cache 0 (Too old connection (1997 seconds idle), disconnect it)
+[2025.04.09-20.05.40:342][291]LogHttp: Warning: 000008C1E9083F00: libcurl info message cache 1 (Connection 7 seems to be dead)
+[2025.04.09-20.05.40:342][291]LogHttp: Warning: 000008C1E9083F00: libcurl info message cache 2 (Closing connection)
+[2025.04.09-20.05.40:342][291]LogHttp: Warning: 000008C1E9083F00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.04.09-20.05.40:342][291]LogHttp: Warning: 000008C1E9083F00: libcurl info message cache 4 (Send failure: Connection was reset)
+[2025.04.09-20.05.40:342][291]LogHttp: Warning: 000008C1E9083F00: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2025.04.09-20.05.40:342][291]LogHttp: Warning: 000008C1E9083F00: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.04.09-20.05.40:342][291]LogHttp: Warning: 000008C1E9083F00: libcurl info message cache 7 (Closing connection)
+[2025.04.09-20.05.40:342][291]LogEOSSDK: Warning: LogHttp: 000008ADA4B71200: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B850FF380-471E-6A61-3A5D-7BB6872A7A38%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-20.05.40:342][291]LogEOSSDK: Warning: LogHttp: 000008ADA4B71200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.09-20.05.40:342][291]LogEOSSDK: Warning: LogHttp: 000008ADA4B71200: libcurl info message cache 0 (Too old connection (1965 seconds idle), disconnect it)
+[2025.04.09-20.05.40:342][291]LogEOSSDK: Warning: LogHttp: 000008ADA4B71200: libcurl info message cache 1 (Connection 24 seems to be dead)
+[2025.04.09-20.05.40:342][291]LogEOSSDK: Warning: LogHttp: 000008ADA4B71200: libcurl info message cache 2 (Closing connection)
+[2025.04.09-20.05.40:342][291]LogEOSSDK: Warning: LogHttp: 000008ADA4B71200: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.04.09-20.05.40:342][291]LogEOSSDK: Warning: LogHttp: 000008ADA4B71200: libcurl info message cache 4 (Send failure: Connection was reset)
+[2025.04.09-20.05.40:342][291]LogEOSSDK: Warning: LogHttp: 000008ADA4B71200: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2025.04.09-20.05.40:342][291]LogEOSSDK: Warning: LogHttp: 000008ADA4B71200: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.04.09-20.05.40:342][291]LogEOSSDK: Warning: LogHttp: 000008ADA4B71200: libcurl info message cache 7 (Closing connection)
+[2025.04.09-20.05.40:342][291]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B850FF380-471E-6A61-3A5D-7BB6872A7A38%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.04.09-20.05.40:694][291]LogEOSSDK: Warning: LogHttp: 000008ADB479D800: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-20.05.40:694][291]LogEOSSDK: Warning: LogHttp: 000008ADB479D800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.09-20.05.40:694][291]LogEOSSDK: Warning: LogHttp: 000008ADB479D800: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.04.09-20.05.40:694][291]LogEOSSDK: Warning: LogHttp: 000008ADB479D800: libcurl info message cache 1 (Closing connection)
+[2025.04.09-20.05.40:694][291]LogEOSSDK: Warning: LogHttp: 000008ADB479C600: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0E8C3A1B41CCA75E8D36E8B1DE718717, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-20.05.40:694][292]LogEOSSDK: Warning: LogHttp: 000008ADB479C600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.09-20.05.40:694][292]LogEOSSDK: Warning: LogHttp: 000008ADB479C600: libcurl info message cache 0 (Found bundle for host: 0x8adb5880c30 [serially])
+[2025.04.09-20.05.40:694][292]LogEOSSDK: Warning: LogHttp: 000008ADB479C600: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.04.09-20.05.40:694][292]LogEOSSDK: Warning: LogHttp: 000008ADB479C600: libcurl info message cache 2 (Closing connection)
+[2025.04.09-20.05.40:694][292]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.04.09-20.05.40:694][292]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0E8C3A1B41CCA75E8D36E8B1DE718717
+[2025.04.09-20.05.41:043][292]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: a06...3dc
+[2025.04.09-20.05.41:043][292]LogEOSSDK: Warning: LogHttp: 000008C1D91F1800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-20.05.41:043][292]LogEOSSDK: Warning: LogHttp: 000008C1D91F1800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.09-20.05.41:043][292]LogEOSSDK: Warning: LogHttp: 000008C1D91F1800: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.04.09-20.05.41:043][292]LogEOSSDK: Warning: LogHttp: 000008C1D91F1800: libcurl info message cache 1 (Closing connection)
+[2025.04.09-20.05.41:043][292]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.04.09-20.05.42:171][295]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.04.09-20.05.42:171][295]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0E8C3A1B41CCA75E8D36E8B1DE718717
+[2025.04.09-20.05.42:171][295]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.04.09-20.05.42:748][297]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.04.09-20.05.42:748][297]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.04.09-20.05.42:748][297]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0E8C3A1B41CCA75E8D36E8B1DE718717
+[2025.04.09-20.05.50:107][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.04.09-20.05.50:109][319]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMap' took 0.024
+[2025.04.09-20.06.29:391][437]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22634.931641
+[2025.04.09-20.06.30:390][440]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-20.06.30:390][440]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22635.597656, Update Interval: 356.057617
+[2025.04.09-20.08.22:745][574]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Auscultadores (Realtek(R) Audio), InstanceID=1
+[2025.04.09-20.08.22:757][575]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.04.09-20.08.22:757][575]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=24308
+[2025.04.09-20.08.23:103][593]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.04.09-20.08.23:108][593]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{47df765b-2a1f-4ee2-9b8e-006b4d8458ac}, Name=Auscultadores (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=343.40
+[2025.04.09-20.08.23:108][593]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.04.09-20.08.23:113][593]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.04.09-20.09.27:023][268]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.04.09-20.09.27:035][268]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.04.09-20.09.27:046][268]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.04.09-20.09.27:069][269]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.04.09-20.09.43:906][270]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_LyraCharacter
+[2025.04.09-20.09.43:957][270]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.04.09-20.10.12:704][947]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ALS/Character/BP_LyraCharacter.BP_LyraCharacter
+[2025.04.09-20.10.12:708][947]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.04.09-20.10.49:885][820]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.04.09-20.10.53:018][991]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.04.09-20.12.07:421][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.04.09-20.12.08:695][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-20.12.08:735][235]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ALS/Character/BP_LyraCharacter] ([2] browsable assets)...
+[2025.04.09-20.12.08:746][235]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ALS/Character/BP_LyraCharacter.BP_LyraCharacter]
+[2025.04.09-20.12.08:746][235]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.04.09-20.12.08:765][235]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ALS/Character/BP_LyraCharacter.BP_LyraCharacter_C]
+[2025.04.09-20.12.08:765][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/ALS/Character/BP_LyraCharacter]
+[2025.04.09-20.12.08:765][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ALS/Character/BP_LyraCharacter" FILE="../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Character/BP_LyraCharacter.uasset" SILENT=true
+[2025.04.09-20.12.08:778][235]LogSavePackage: Moving output files for package: /Game/ALS/Character/BP_LyraCharacter
+[2025.04.09-20.12.08:778][235]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/BP_LyraCharacter22F5758C491A5DEDF8CBA7BC5FC11080.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Character/BP_LyraCharacter.uasset'
+[2025.04.09-20.12.08:790][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.432 ms (total: 19.6 sec)
+[2025.04.09-20.12.08:823][235]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-20.12.08:823][235]LogContentValidation: Enabled validators:
+[2025.04.09-20.12.08:823][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-20.12.08:823][235]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-20.12.08:823][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-20.12.08:823][235]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-20.12.08:823][235]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-20.12.08:824][235]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-20.12.08:824][235]AssetCheck: /Game/ALS/Character/BP_LyraCharacter Validating asset
+[2025.04.09-20.12.17:684][697]LogSlate: External Image Picker: DecompressImage failed
+[2025.04.09-20.13.06:719][215]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23032.492188
+[2025.04.09-20.13.06:955][229]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.09-20.13.06:955][229]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23032.710938, Update Interval: 320.519409
+[2025.04.09-20.13.50:518][796]LogSlate: Window 'Project Settings' being destroyed
+[2025.04.09-20.14.29:503][108]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.09-20.14.29:510][108]LogContentBundle: [TestMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.09-20.14.29:510][108]LogWorldPartition: Display: GenerateStreaming for 'TestMap' started...
+[2025.04.09-20.14.29:518][108]LogWorldPartition: Display: GenerateStreaming for 'TestMap' took 6.531 ms (total: 13.286 ms)
+[2025.04.09-20.14.29:518][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.09-20.14.29:518][108]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2025.04.09-20.14.29:530][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011614s)
+[2025.04.09-20.14.29:530][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.011660s)
+[2025.04.09-20.14.29:554][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.04.09-20.14.29:557][108]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2025.04.09-20.14.29:560][108]LogWorldPartition: ULevel::OnLevelLoaded(TestMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.09-20.14.29:560][108]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.09-20.14.29:560][108]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_TestMap.TestMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.09-20.14.29:560][108]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.09-20.14.29:567][108]LogWorldPartition: Display: WorldPartition initialize took 8.408 ms (total: 557.364 ms)
+[2025.04.09-20.14.29:568][108]LogPlayLevel: PIE: World Init took: (0.010940s)
+[2025.04.09-20.14.29:568][108]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.04.09-20.14.29:568][108]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.09-20.14.29:569][108]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.09-20.14.29:569][108]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.09-20.14.29:569][108]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.09-20.14.29:569][108]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.09-20.14.29:569][108]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.09-20.14.29:569][108]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.09-20.14.29:569][108]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.09-20.14.29:569][108]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.09-20.14.29:569][108]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.09-20.14.29:569][108]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.09-20.14.29:571][108]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.09-20.14.29:617][108]LogAudioMixer: Display: Using Audio Hardware Device Auscultadores (Realtek(R) Audio)
+[2025.04.09-20.14.29:620][108]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.09-20.14.29:620][108]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.09-20.14.29:620][108]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.09-20.14.29:621][108]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.04.09-20.14.29:621][108]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.04.09-20.14.29:623][108]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.04.09-20.14.29:623][108]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.04.09-20.14.29:623][108]LogInit: FAudioDevice initialized with ID 3.
+[2025.04.09-20.14.29:623][108]LogAudio: Display: Audio Device (ID: 3) registered with world 'TestMap'.
+[2025.04.09-20.14.29:623][108]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.09-20.14.29:629][108]LogLoad: Game class is 'BP_LyraGameMode_C'
+[2025.04.09-20.14.29:631][108]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2025.04.09-21.14.29
+[2025.04.09-20.14.29:631][108]LogWorld: Bringing up level for play took: 0.001798
+[2025.04.09-20.14.29:635][108]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.04.09-20.14.29:649][108]LogStreaming: Display: FlushAsyncLoading(917,916,915,914,913,912,911,910,909,908,907,906,905,904,903,902,901,900,899,898,897,896,895,894,893,892,891,890,889,888,887,886,885,884,883,882,881,880,879,878,877,876,875,874): 44 QueuedPackages, 0 AsyncPackages
+[2025.04.09-20.14.29:897][108]PIE: Server logged in
+[2025.04.09-20.14.29:899][108]PIE: Play in editor total start time 0,388 seconds.
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: ================================================
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: Total job queries 309, among them cache hits 33 (10.68%), DDC hits 145 (46.93%), Duplicates 6 (1.94%)
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: Tracking 270 distinct input hashes that result in 234 distinct outputs (86.67%)
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: RAM used: 159,15 KiB of 819,20 MiB budget. Usage: 0.02%
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: Shaders Compiled: 125
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: Jobs assigned 125, completed 125 (100%)
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: Average time worker was idle: 774.96 s
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: Time job spent in pending queue: average 2.39 s, longest 7.28 s
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: Job execution time: average 1.83 s, max 9.00 s
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: Job life time (pending + execution): average 4.22 s, max 9.83
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: Shader code size: average 10,323 KiB, min 3,949 KiB, max 57,281 KiB
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 41.22 s
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.11%
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: Jobs were issued in 125 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: Average processing rate: 3.03 jobs/sec
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: Total thread time: 109,736 s
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: Total thread preprocess time: 5,06 s
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: Percentage time preprocessing: 4.61%
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: Effective parallelization: 2.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.09-20.14.40:102][637]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 4.10 sec, max 4.63 sec, min 3.58 sec)
+[2025.04.09-20.14.40:103][637]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    2 times, average 1.85 sec, max 1.92 sec, min 1.78 sec)
+[2025.04.09-20.14.40:103][637]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 1.74 sec, max 1.87 sec, min 1.54 sec)
+[2025.04.09-20.14.40:103][637]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 1.23 sec, max 1.35 sec, min 1.10 sec)
+[2025.04.09-20.14.40:103][637]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 1.18 sec, max 1.66 sec, min 0.94 sec)
+[2025.04.09-20.14.40:103][637]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.09-20.14.40:103][637]LogShaderCompilers: Display:                                             FDebugViewModePS - 14.95% of total time (compiled    4 times, average 4.10 sec, max 4.63 sec, min 3.58 sec)
+[2025.04.09-20.14.40:103][637]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.89% of total time (compiled   13 times, average 0.92 sec, max 1.89 sec, min 0.50 sec)
+[2025.04.09-20.14.40:103][637]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 6.47% of total time (compiled    6 times, average 1.18 sec, max 1.66 sec, min 0.94 sec)
+[2025.04.09-20.14.40:103][637]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.91% of total time (compiled   12 times, average 0.45 sec, max 0.67 sec, min 0.35 sec)
+[2025.04.09-20.14.40:103][637]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 4.75% of total time (compiled    3 times, average 1.74 sec, max 1.87 sec, min 1.54 sec)
+[2025.04.09-20.14.40:103][637]LogShaderCompilers: Display: === Material stats ===
+[2025.04.09-20.14.40:103][637]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.09-20.14.40:103][637]LogShaderCompilers: Display: Materials Translated:    132
+[2025.04.09-20.14.40:103][637]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2025.04.09-20.14.40:103][637]LogShaderCompilers: Display: Material Translation Only: 0.06 s (34%)
+[2025.04.09-20.14.40:103][637]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.04.09-20.14.40:103][637]LogShaderCompilers: Display: Material Cache Hits: 8 (6%)
+[2025.04.09-20.14.40:103][637]LogShaderCompilers: Display: ================================================
+[2025.04.09-20.14.41:849][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-20.14.41:849][733]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap
+[2025.04.09-20.14.41:862][733]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-20.14.41:862][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.14.41:862][733]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_TestMap.TestMap
+[2025.04.09-20.14.41:868][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.09-20.14.41:874][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.14.41:894][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-20.14.41:895][733]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.09-20.14.41:895][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.09-20.14.41:897][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.09-20.14.41:916][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.04.09-20.14.41:948][734]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.04.09-20.14.45:391][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.04.09-20.14.47:050][802]LogSlate: Window 'Save Content' being destroyed
+[2025.04.09-20.14.47:088][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.09-20.14.47:129][802]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ALS/Character/BP_LyraGameMode] ([2] browsable assets)...
+[2025.04.09-20.14.47:129][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/ALS/Character/BP_LyraGameMode]
+[2025.04.09-20.14.47:129][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ALS/Character/BP_LyraGameMode" FILE="../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Character/BP_LyraGameMode.uasset" SILENT=true
+[2025.04.09-20.14.47:132][802]LogSavePackage: Moving output files for package: /Game/ALS/Character/BP_LyraGameMode
+[2025.04.09-20.14.47:133][802]LogSavePackage: Moving '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Saved/BP_LyraGameMode81500F36425C6B251D07AC825E743114.tmp' to '../../../../../Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Character/BP_LyraGameMode.uasset'
+[2025.04.09-20.14.47:141][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.260 ms (total: 19.7 sec)
+[2025.04.09-20.14.47:185][802]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.09-20.14.47:185][802]LogContentValidation: Enabled validators:
+[2025.04.09-20.14.47:185][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.09-20.14.47:185][802]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.09-20.14.47:185][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.09-20.14.47:185][802]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.09-20.14.47:185][802]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.09-20.14.47:185][802]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.09-20.14.47:185][802]AssetCheck: /Game/ALS/Character/BP_LyraGameMode Validating asset
+[2025.04.09-20.15.03:809][782]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-20.15.03:810][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.15.03:882][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.04.09-20.15.05:711][885]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.09-20.15.05:711][885]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-20.15.05:711][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.15.05:784][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.04.09-20.15.06:921][936]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-20.15.06:921][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-20.15.07:031][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
