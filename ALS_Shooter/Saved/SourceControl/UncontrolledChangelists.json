@@ -157,7 +157,13 @@
 				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/Levels/TestMap.umap",
 				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Character/BP_LyraCharacter.uasset",
 				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/AnimationBlueprints/ABP_Base.uasset",
-				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Interfaces/BPI_AnimationBlueprintInterface.uasset"
+				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Interfaces/BPI_AnimationBlueprintInterface.uasset",
+				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Inputs/IMC_ALS.uasset",
+				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Inputs/InputActions/IA_SwitchWeapon.uasset",
+				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Animations/Pistol/MM_Pistol_Idle_ADS.uasset",
+				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Animations/Rifle/MM_Rifle_Idle_ADS.uasset",
+				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Animations/Unarmed/MM_Unarmed_Idle_Ready.uasset",
+				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Enuns/E_Guns.uasset"
 			]
 		}
 	]
