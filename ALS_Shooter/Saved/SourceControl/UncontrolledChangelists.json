@@ -155,7 +155,9 @@
 				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/1/RB/041U3Z2YX4DYOUT92BRETT.uasset",
 				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/__ExternalActors__/Levels/TestMap/C/OE/72SI0U825Y8TTNLPC80VCG.uasset",
 				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/Levels/TestMap.umap",
-				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Character/BP_LyraCharacter.uasset"
+				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Character/BP_LyraCharacter.uasset",
+				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/AnimationBlueprints/ABP_Base.uasset",
+				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Interfaces/BPI_AnimationBlueprintInterface.uasset"
 			]
 		}
 	]
