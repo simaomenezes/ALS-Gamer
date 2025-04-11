@@ -164,12 +164,13 @@
 				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Animations/Rifle/MM_Rifle_Idle_ADS.uasset",
 				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Animations/Unarmed/MM_Unarmed_Idle_Ready.uasset",
 				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Enuns/E_Guns.uasset",
-				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Interfaces/ALL_Lyra.uasset",
 				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Interfaces/ALI_Lyra.uasset",
 				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/AnimationBlueprints/ABP_Layers.uasset",
 				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/AnimationBlueprints/ABP_Pistol.uasset",
 				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/AnimationBlueprints/ABP_UnArmed.uasset",
-				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/AnimationBlueprints/ABP_Rifle.uasset"
+				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/AnimationBlueprints/ABP_Rifle.uasset",
+				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Inputs/InputActions/IA_Look.uasset",
+				"C:/Dev-Game-UE/ALS-Gamer/ALS_Shooter/Content/ALS/Interfaces/ALL_Lyra.uasset"
 			]
 		}
 	]
